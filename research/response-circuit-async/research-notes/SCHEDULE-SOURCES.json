@@ -1,0 +1,13 @@
+{
+  "scope": "Source-only reading; no new Lean certification or direct theorem instantiation",
+  "sources": [
+    {
+      "path": "OAI/LinearAlgebra/MatrixMultiplication/Recovery/FiniteSchedule.lean",
+      "sha256": "336e83a159ba4749c226a9e23ced03098afddf99b856aac19a6b20aa74fef5b3"
+    },
+    {
+      "path": "OAI/LinearAlgebra/MatrixMultiplication/FieldConstruction/ScheduledYield.lean",
+      "sha256": "d89af7de888dffc2ecf87bcc692b403b30bbbf3d224c4274816206bf8eec09a3"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "source": "lean/OAI/LinearAlgebra/MatrixMultiplication/AuxiliarySeparation/Tensor/DirectSum.lean",
+  "sha256": "8f320a57fb1a726d81fea6f967a6c7d1c0c708cc2ddccbefc7514ffd3739756b",
+  "theorems": [
+    "OAI.MatrixMultiplication.AuxiliarySeparation.sumTensor_restrict",
+    "OAI.MatrixMultiplication.AuxiliarySeparation.sumTensor_assoc"
+  ],
+  "scope": "Source-inspected inspiration for separately proved finite block assembly; no new Lean certification or numerical gain."
+}

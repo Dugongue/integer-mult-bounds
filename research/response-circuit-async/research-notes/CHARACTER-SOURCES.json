@@ -1,0 +1,12 @@
+{
+  "path": "openai-math/lean\\OAI\\Algebra\\OddKaplansky\\Fourier.lean",
+  "sha256": "d1eeadb0789e3f4f0193c75ba72679a3c98e5710cd4703dd3d77af9bb4477e4b",
+  "declarations": [
+    "OddKaplansky.CharacterIdempotents.sum_character_eq_zero",
+    "OddKaplansky.CharacterIdempotents.projector_idempotent",
+    "OddKaplansky.CharacterIdempotents.projector_orthogonal",
+    "OddKaplansky.Fourier.character_mul"
+  ],
+  "scope": "Exact source statements read; not freshly Lean-compiled or axiom-audited.",
+  "adaptation": "Use the C2 common-response sector after dyadic diagonal rescaling; implement an invertible triangular completion, retaining the unobserved coordinate rather than deleting it."
+}

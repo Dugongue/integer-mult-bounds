@@ -1,0 +1,13 @@
+# Fourier common-response lifting
+
+The new source family is OpenAI OddKaplansky/Fourier.lean. It gives explicit character projectors, idempotence, and orthogonality; source identity and exact declarations are in OPENAI-SOURCE.json. No fresh Lean compilation or axiom audit was run.
+
+The instantiated circuit transformation acts on two ordinary packet outputs feeding one target: y <- y+ca*a+cb*b. After dyadic rescaling, this reads only the common C2-character sector. Instead of applying a lossy projection, the implementation uses the invertible lifting step a <- a+(cb/ca)*b, followed by y <- y+ca*a; b stays present. The surrounding reverse cleanup contains the inverse of the new lift. This equality holds for all a,b,y, including arbitrary dirt. No register is zeroed or discarded. All actual ratios {-1/2,-2,1,1/4,4} fit the retained dyadic scalar interface.
+
+A sufficient frame condition is that the source frames have a common join F contained in the target's final hyperplane. The lift executes at F, all later common-frame uses must remain nested, and every new transition is paid. The complete response compensation and normalized physical recipe must then be rebuilt against the changed word before supplier admission. The actual pilot does rebuild the exact response relations and checks the full frame chains; it does not assume a missing operator gadget.
+
+The existing rank-sector factory was changed, not merely repriced. All112 target pairs have a rank7 join, and the raw factory's120 clean source-column identity passes. Transplanting inherited retiming naively failed; after112 explicit monotone repairs, the full99-pivot response construction passed with exactly the baseline paid profile and ordered widths. Fourteen additional one-target probes, one per source block, also passed and all had zero paid-profile delta. The inherited retiming had already captured the prospective child-rank benefit. This is a finite no-gain screen, not a theorem forbidding other character-sector schedules.
+
+PR520's delivery map is relevant to a different extension: simultaneous grouping of multiple targets changes their legal frame chains and requires a new fully paid word. Its broad grouping proposal does not turn this already-implemented single-target lift into a numerical gain. Its newer two-plane correction must be respected; no three-branch lower bound is asserted here.
+
+All source variants, failed first transfer, raw and repaired candidates, native response-census output, and one-target probe receipts are preserved. No fresh physical replay was spent on the zero-gain pilot. No new kappa claim is made from this lane's construction.

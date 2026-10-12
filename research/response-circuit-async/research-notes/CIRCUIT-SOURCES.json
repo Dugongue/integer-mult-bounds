@@ -1,0 +1,11 @@
+{
+  "snapshot": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+  "source": "OAI/LinearAlgebra/RankMatching/Basic.lean",
+  "sha256": "91929323eb6a8730ce32cdf2b5677468e66b2bad6bd3f46b0ef30c551a68b039",
+  "declarations": [
+    "columnSpace_step",
+    "finrank_sup_singleton",
+    "blockRank_step"
+  ],
+  "scope": "Source-inspired finite rank filtration and circuit decomposition; source inspected, not compiled or instantiated as a Lean theorem."
+}
