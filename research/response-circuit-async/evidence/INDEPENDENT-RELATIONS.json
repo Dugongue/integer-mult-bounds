@@ -1,0 +1,64 @@
+{
+  "status": "PASS_INDEPENDENT_S100_RELATIONS_AND_PROFILE",
+  "new_relations": [
+    {
+      "pivot": 357,
+      "E": [
+        384
+      ],
+      "coefficients": {
+        "162": "-1/2",
+        "163": "-1/2",
+        "356": "-1"
+      }
+    },
+    {
+      "pivot": 443,
+      "E": [
+        384
+      ],
+      "coefficients": {
+        "162": "-1",
+        "163": "1",
+        "442": "1"
+      }
+    }
+  ],
+  "removed_pivots": [
+    299
+  ],
+  "added_pivots": [
+    357,
+    443
+  ],
+  "profile": {
+    "1": 2475,
+    "2": 184,
+    "3": 514,
+    "4": 88,
+    "5": 242,
+    "8": 17,
+    "6": 124,
+    "7": 1
+  },
+  "profile_delta": {
+    "1": 1,
+    "2": 2,
+    "3": -2,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "widths": {
+    "8": 162,
+    "9": 380,
+    "7": 18
+  },
+  "word_sha256": "ba714e70f7b6535fb14cda1ed53e08073235f125b660f2742d8ce90e75743341",
+  "selection_sha256": "adf6f0c436f856f15ab20e9488fe96579acff03a241f90c53fdbbbfffbbaf109",
+  "base_sha256": "3d8280eb99d8a986628ce54e4be1bedfce0bf35ccab24e2c97b61684688eb9bc",
+  "scope": "Local exact rational response, frame, dyadic and invoice check; physical and global assembly are separate."
+}

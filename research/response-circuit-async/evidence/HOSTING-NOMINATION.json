@@ -1,0 +1,28 @@
+{
+  "status": "PASS_SOURCE_BOUND_LITERAL_NOMINATION_FULL_PHYSICAL_REPLAY_SEPARATE",
+  "plan_sha256": "745b39122ccd4cb839c3bbf49f087bee17b4a683ffeb373bf5fa1eb801722298",
+  "owners_sha256": "e0f86e96236e8505ee4e29c18afd77b698aef6863260dbf68fedcd80b824abd2",
+  "source_word_sha256": "ba714e70f7b6535fb14cda1ed53e08073235f125b660f2742d8ce90e75743341",
+  "source_selection_lf_sha256": "adf6f0c436f856f15ab20e9488fe96579acff03a241f90c53fdbbbfffbbaf109",
+  "roles": 40320,
+  "calls": 72,
+  "helpers_per_call": 560,
+  "data_families": 7680,
+  "window_groups": 144,
+  "profile": {
+    "1": 178200,
+    "2": 13248,
+    "3": 40048,
+    "4": 6336,
+    "5": 21016,
+    "8": 1224,
+    "6": 8928,
+    "7": 160,
+    "48": 800
+  },
+  "rank_mass": 558144,
+  "deficit": 2496,
+  "nominal_supplier_root": 0.0014043966138128081,
+  "scope": "Nomination source width binding, integer profile and literal owner construction. Parent performs independent actual physical, local-column, coefficient-envelope and exact outer replay before publication claim.",
+  "allocator_imports": "Retained earlier pattern-union and literal matching scripts. PR520 read for comparison; no code imported."
+}

@@ -1,0 +1,15 @@
+{
+  "status": "PASS_GZIP_LEVEL_TIME_OS_CONTROLS",
+  "archive_sha256": "bb798c50868b65e41036ca26a573b42dd1d27b53ba799b0d7e36318b693df552",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "level": 9,
+  "mtime": 0,
+  "os_byte": 255,
+  "simulated_os_bytes": [
+    0,
+    3,
+    10,
+    255
+  ],
+  "scope": "Local runtime and simulated header controls; no Linux or other Python interpreter execution claimed."
+}

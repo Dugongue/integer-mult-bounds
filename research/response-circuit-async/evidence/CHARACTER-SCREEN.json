@@ -1,0 +1,23 @@
+{
+  "status": "COMPLETED_CONCRETE_FOURIER_RESPONSE_LIFTING_SCREEN_NO_GAIN",
+  "common_response_pairs": 112,
+  "raw_legal_frame_joins": 112,
+  "join_dimension": 7,
+  "retimed_monotone_repairs": 112,
+  "paid_profile": {
+    "1": 2474,
+    "2": 182,
+    "3": 516,
+    "4": 88,
+    "5": 242,
+    "8": 17,
+    "6": 124,
+    "7": 1
+  },
+  "ordered_widths_unchanged": true,
+  "entrance_pivots": 99,
+  "non_dyadic": [],
+  "single_target_probes": 14,
+  "all_single_target_profile_deltas_zero": true,
+  "scope": "Exact construction, clean120-column identity, response relations and frames checked; no positive paid-profile candidate, so no fresh expensive physical audit or achieved kappa is claimed."
+}

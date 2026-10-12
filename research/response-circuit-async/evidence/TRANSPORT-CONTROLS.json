@@ -1,0 +1,17 @@
+[
+  {
+    "control": "changed-token",
+    "exit": 1,
+    "rejected_before_output": true
+  },
+  {
+    "control": "missing-input",
+    "exit": 1,
+    "rejected_before_output": true
+  },
+  {
+    "control": "optimized-python",
+    "exit": 1,
+    "rejected_before_output": true
+  }
+]
