@@ -1,0 +1,7 @@
+{
+  "status": "FROZEN_NEW_POINT_PENDING_STRICT_REPLAY",
+  "kappa": "0.0017037027043561352221489999999999999999999998999999999999999999999999",
+  "kappa_rational": "17037027043561352221489999999999999999999998999999999999999999999999/10000000000000000000000000000000000000000000000000000000000000000000000",
+  "supplier_C": "1703702704356135222149/1000000000000000000000000",
+  "scope": "Conditional finite construction only. All-size compiler, common-label/mutable-source realization, whole-call hosting, precision/tape, exact recovery, analytic transfer, PR559 recurrence correction and PR589 bit H1-H5 assumptions remain. No unconditional theorem, full Lean certification, or global packing claim."
+}
