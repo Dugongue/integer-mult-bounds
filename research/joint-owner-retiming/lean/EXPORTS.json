@@ -1,0 +1,51 @@
+{
+  "mathlib_revision": "db584cd6d46c92f209a44c0f1c829460d327499d",
+  "files": {
+    "OwnerProfileGain.lean": [
+      "IntegerKappaOwnerProfileGain.quadratic_compaction_strict",
+      "IntegerKappaOwnerProfileGain.rpow_linear_upper",
+      "IntegerKappaOwnerProfileGain.owner_exchange_strict",
+      "IntegerKappaOwnerProfileGain.owner_exchange_half_to_one",
+      "IntegerKappaOwnerProfileGain.moment_profile_transfer",
+      "IntegerKappaOwnerProfileGain.strict_acceptance_transfer",
+      "IntegerKappaOwnerProfileGain.normalized_moment_transfer"
+    ],
+    "GroupedDepth.lean": [
+      "k5_floor_child_contract",
+      "k5_path_power_bound",
+      "k5_nineteen_step_contract",
+      "k5_grouped_power_bound",
+      "k5_grouped_stops",
+      "k5_grouped_row_bound",
+      "k5_grouped_recursion_and_row"
+    ],
+    "SemanticWordSubstitution.lean": [
+      "IntegerKappaSemanticWords.substitution_preserves_eval",
+      "IntegerKappaSemanticWords.generator_equality_preserves_eval",
+      "IntegerKappaSemanticWords.relabel_preserves_eval",
+      "IntegerKappaSemanticWords.weightedEval",
+      "IntegerKappaSemanticWords.normalizeTerms",
+      "IntegerKappaSemanticWords.weighted_substitution_preserves_eval",
+      "IntegerKappaSemanticWords.normalized_zero_implies_original_zero",
+      "IntegerKappaSemanticWords.normalized_equality_implies_original_equality",
+      "IntegerKappaSemanticWords.same_frames_equality_iff",
+      "IntegerKappaSemanticWords.changed_frames_equality_iff"
+    ],
+    "ScalarRetiming.lean": [
+      "IntegerKappaScalarRetiming.run_append",
+      "IntegerKappaScalarRetiming.commutes_symm",
+      "IntegerKappaScalarRetiming.run_commutes",
+      "IntegerKappaScalarRetiming.retiming_blocks",
+      "IntegerKappaScalarRetiming.retiming_in_context",
+      "IntegerKappaScalarRetiming.block_replacement",
+      "IntegerKappaScalarRetiming.addGate_same",
+      "IntegerKappaScalarRetiming.addGate_other",
+      "IntegerKappaScalarRetiming.addGate_same_target_commute",
+      "IntegerKappaScalarRetiming.addGate_distinct_target_commute",
+      "IntegerKappaScalarRetiming.addGate_commute_of_no_cross_hazards",
+      "IntegerKappaScalarRetiming.addGate_fuse",
+      "IntegerKappaScalarRetiming.addGate_forwarding"
+    ]
+  },
+  "scope": "35 theorems and two definitions; all imports are Mathlib. Full multiplication and Python finite certificates are separate."
+}

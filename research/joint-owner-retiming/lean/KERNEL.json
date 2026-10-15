@@ -1,0 +1,187 @@
+{
+  "status": "PASS_FRESH_MATHLIB_ONLY_KERNEL_AND_AXIOM_AUDIT",
+  "lean_version": "Lean (version 4.33.0, x86_64-w64-windows-gnu, commit d8b18978322de05a8f3dba51ef03cf5461676c17, Release)",
+  "mathlib_revision": "db584cd6d46c92f209a44c0f1c829460d327499d",
+  "scope": "These exact declarations only; no Python, whole supplier, fixed-tape implementation or outer multiplication formalization.",
+  "sources": [
+    {
+      "source": "OwnerProfileGain.lean",
+      "source_sha256": "b3b8705711fd360e637135a9512cf8bb9c7883e7b8a6c065fd40170dd4e098a4",
+      "kernel_exit_code": 0,
+      "axioms": {
+        "IntegerKappaOwnerProfileGain.quadratic_compaction_strict": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaOwnerProfileGain.rpow_linear_upper": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaOwnerProfileGain.owner_exchange_strict": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaOwnerProfileGain.owner_exchange_half_to_one": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaOwnerProfileGain.moment_profile_transfer": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaOwnerProfileGain.strict_acceptance_transfer": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaOwnerProfileGain.normalized_moment_transfer": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ]
+      },
+      "stdout_sha256": "045ade208e087568489efb2a0f909b7080151c7511c3bf601811ba11a56a126f"
+    },
+    {
+      "source": "GroupedDepth.lean",
+      "source_sha256": "b6c0755a68eec87798c6c99a5a13c25a469cc3eb6f4c398981358eec836357be",
+      "kernel_exit_code": 0,
+      "axioms": {
+        "k5_floor_child_contract": [
+          "propext"
+        ],
+        "k5_path_power_bound": [
+          "propext"
+        ],
+        "k5_nineteen_step_contract": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "k5_grouped_power_bound": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "k5_grouped_stops": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "k5_grouped_row_bound": [
+          "propext",
+          "Quot.sound"
+        ],
+        "k5_grouped_recursion_and_row": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ]
+      },
+      "stdout_sha256": "aa2892e0cd0257e8ce063bb486156e40f873677194a007610fad99f368c2d2bc"
+    },
+    {
+      "source": "SemanticWordSubstitution.lean",
+      "source_sha256": "39a6c6a15e19ffa65174e08693a59143b42238d9a8a1225560ec25ee3efb98fd",
+      "kernel_exit_code": 0,
+      "axioms": {
+        "IntegerKappaSemanticWords.substitution_preserves_eval": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.generator_equality_preserves_eval": [
+          "propext",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.relabel_preserves_eval": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.weightedEval": [
+          "propext",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.normalizeTerms": [
+          "propext",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.weighted_substitution_preserves_eval": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.normalized_zero_implies_original_zero": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.normalized_equality_implies_original_equality": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "IntegerKappaSemanticWords.same_frames_equality_iff": [
+          "propext"
+        ],
+        "IntegerKappaSemanticWords.changed_frames_equality_iff": [
+          "propext"
+        ]
+      },
+      "stdout_sha256": "9b980a5f2631d4b669bd5e1f8311d0435efa0755067ea0f4e034254e6da76045"
+    },
+    {
+      "source": "ScalarRetiming.lean",
+      "source_sha256": "9cdade636ee261f65bd882c805753e46a90e5c87a3300b7522efc8c6ef55b4b8",
+      "kernel_exit_code": 0,
+      "axioms": {
+        "IntegerKappaScalarRetiming.run_append": [],
+        "IntegerKappaScalarRetiming.commutes_symm": [],
+        "IntegerKappaScalarRetiming.run_commutes": [
+          "propext"
+        ],
+        "IntegerKappaScalarRetiming.retiming_blocks": [
+          "propext"
+        ],
+        "IntegerKappaScalarRetiming.retiming_in_context": [
+          "propext"
+        ],
+        "IntegerKappaScalarRetiming.block_replacement": [],
+        "IntegerKappaScalarRetiming.addGate_same": [
+          "propext"
+        ],
+        "IntegerKappaScalarRetiming.addGate_other": [
+          "propext"
+        ],
+        "IntegerKappaScalarRetiming.addGate_same_target_commute": [
+          "propext",
+          "Quot.sound"
+        ],
+        "IntegerKappaScalarRetiming.addGate_distinct_target_commute": [
+          "propext",
+          "Quot.sound"
+        ],
+        "IntegerKappaScalarRetiming.addGate_commute_of_no_cross_hazards": [
+          "propext",
+          "Quot.sound"
+        ],
+        "IntegerKappaScalarRetiming.addGate_fuse": [
+          "propext",
+          "Quot.sound"
+        ],
+        "IntegerKappaScalarRetiming.addGate_forwarding": [
+          "propext",
+          "Quot.sound"
+        ]
+      },
+      "stdout_sha256": "241f47bbf1c9ed1a3d863d3d2108f8a5628de3833c00276b8c5b51044991f42e"
+    }
+  ],
+  "exports": 37
+}

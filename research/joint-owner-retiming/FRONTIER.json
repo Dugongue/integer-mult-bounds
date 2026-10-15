@@ -1,0 +1,1984 @@
+{
+  "status": "COMPLETE_UPDATED_PR_METADATA_BODY_REVIEW",
+  "snapshot_utc": "2026-10-15T12:54:57Z",
+  "snapshot_sha256": "70306416295cbf2b570a105dcdecf27e94e3616e2ed8eb2769d0677a1f947e11",
+  "main": "0fdd7d82de03e43c9e5a1000dfbcd380d1b687d2",
+  "reviewed_records": 246,
+  "highest_pr": 2501,
+  "scope": "All246updated PR bodies from the fully paginated snapshot; no arbitrary code-diff, comment, Discussion or unpublished-work completeness claim. The full pinned PR2474 release was independently executed; the new successor has separate complete finite and Lean audits.",
+  "highest_competing_conditional_claim": {
+    "pr": 2474,
+    "kappa": "0.001703676387993676489033949045348121170345872741703307776154",
+    "head": "71b5b0e383b2f4b57dd2177b424612da9c988fe4"
+  },
+  "prs": [
+    {
+      "number": 349,
+      "title": "Certify PR288's restricted sign-gauge obstruction with four constraints (no new \u03ba)",
+      "head": "4b0e84065c2902808e33f14f423de43ed12b92a0",
+      "body_sha256": "ee51e562135d5c17fd96dec2c491ab610eaf2188c7deeb01c47e712f74f03eee",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/349",
+      "updated_at": "2026-10-15T01:28:33Z"
+    },
+    {
+      "number": 620,
+      "title": "Research notes (no \u03ba claim): E8 decoder floors are tight; extension-ring, triple and Lorentzian units lose after helpers; cold-end, dispatch and fusion-search negatives",
+      "head": "d9f74946210588fe4085411ea254c30fb7f11e09",
+      "body_sha256": "02ad3325307a47c3336fcb110bd9b3008439e8dc7418a30128ae0b2b3745e4b3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/620",
+      "updated_at": "2026-10-15T03:06:56Z"
+    },
+    {
+      "number": 774,
+      "title": "Research: certify R420 forest cuts under the 104-bit cap",
+      "head": "f0935b4ab2fd1e051d7508b56b44f143e23211e8",
+      "body_sha256": "240f53d710d458009328bfe428ba3ce398b8ec6d39ac3a1ebf3d826dc9d444ae",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/774",
+      "updated_at": "2026-10-15T04:50:26Z"
+    },
+    {
+      "number": 1175,
+      "title": "Conditional kappa 0.001675338871723469: whole-owner map at the packin\u2026",
+      "head": "979ea2d45d507d4da768e5e26c470534655d99d2",
+      "body_sha256": "3c8181487f7eb4b7abfc0a4bc5bb2df8448ef9c159ebfbf5604f2f1f0342427a",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1175",
+      "updated_at": "2026-10-15T12:10:39Z"
+    },
+    {
+      "number": 1345,
+      "title": "Scoped negative result: PR589's bit word is exactly transport-locally optimal (no new kappa)",
+      "head": "b54a856aa79857d91cd5d65f8f7144e26c8c084f",
+      "body_sha256": "f7a5eebc2b029e362618d8634b649acb24bf52c5770b70b9efc46325097c057b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1345",
+      "updated_at": "2026-10-15T09:03:54Z"
+    },
+    {
+      "number": 1673,
+      "title": "Conditional kappa = 0.001677160151714381 via capped phase-cell fusion",
+      "head": "85ddaa312e463cfaca98d49a2a262994551cec4e",
+      "body_sha256": "00d390878f651eaf359668441648dd25f6e142892a407523f24aed8ba242b1f0",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1673",
+      "updated_at": "2026-10-15T01:41:33Z"
+    },
+    {
+      "number": 1800,
+      "title": "Conditional \u03ba = 0.001679754956125544: fine source-prime padding (PR1786) at the free epsilon -> 1 point, with gauge-free interiors and the radix-distributed union schedule on PR1673's capped phase-cell fusion outer, pivot-566+554 T74 supplier",
+      "head": "46d865ab92e58098538b8c5348b6a131c99abf45",
+      "body_sha256": "8857ce34d8dd5f500a9df8d642485178021857c0c288fa38895972dccad54d0e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1800",
+      "updated_at": "2026-10-15T03:25:49Z"
+    },
+    {
+      "number": 1839,
+      "title": "Conditional \u03ba = 0.0016797549561255445: recertified 1e-90 supplier endpoint and 1e-100 slacks (kappa +6.45e-71 over PR1828): fine source-prime padding (PR1786) at the free epsilon -> 1 point, with gauge-free interiors and the radix-distributed union schedule on PR1673's capped phase-cell fusion outer, pivot-566+554 T74 supplier",
+      "head": "836ef6a1a550f439e42be65423cffd624658af6a",
+      "body_sha256": "fdf97618424fba7860ae35f0e040e1a8a9e8d34ca3983ab8c2470daf184b4588",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1839",
+      "updated_at": "2026-10-15T03:25:44Z"
+    },
+    {
+      "number": 1904,
+      "title": "Conditional \u03ba = 0.00167975495612554452133567099392070257699831143850258029546032752016286454826032563882630565613: recertified 1e-1000 supplier endpoint and 1e-1010 slacks (kappa +8.11857e-401 over PR1876): fine source-prime padding (PR1786) at the free epsilon -> 1 point, with gauge-free interiors and the radix-distributed union schedule on PR1673's capped phase-cell fusion outer, pivot-566+554 T74 supplier",
+      "head": "091ba6e64169230d13285d12563390ea76f44208",
+      "body_sha256": "9c0c68fd3be8a4492a32309ce93ea4a1ea6730293dd6cf7d6d7d866c87284289",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1904",
+      "updated_at": "2026-10-15T03:25:42Z"
+    },
+    {
+      "number": 1905,
+      "title": "Conditional \u03ba = 0.001679754956125544521335670993920702576998311438502580295460327520162864548260325638826305656132: recertified 1e-3000 supplier endpoint and 1e-3010 slacks (kappa +2.00336e-500 over PR1897): fine source-prime padding (PR1786) at the free epsilon -> 1 point, with gauge-free interiors and the radix-distributed union schedule on PR1673's capped phase-cell fusion outer, pivot-566+554 T74 supplier",
+      "head": "34bb6fe148cf878b707b5bf22b8a225206780a67",
+      "body_sha256": "0f3fd40dad514b7112bce7bac0eb2a90a1a296da401daec79cc76dff21dbf01e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1905",
+      "updated_at": "2026-10-15T03:25:38Z"
+    },
+    {
+      "number": 1928,
+      "title": "Conditional \u03ba = 0.0016797549561255445213356709939207025769983114385025802954603275201628645482603256388263056561328: recertified 1e-10000 supplier endpoint and 1e-10010 slacks (kappa +2.00336e-500 over PR1897): fine source-prime padding (PR1786) at the free epsilon -> 1 point, with gauge-free interiors and the radix-distributed union schedule on PR1673's capped phase-cell fusion outer, pivot-566+554 T74 supplier",
+      "head": "07e4e4231459e36b1055396306dcbd950248df62",
+      "body_sha256": "ef7ea977a30eb81338a86ae9184e8faf0eaa53562a8caee972911015a3e9bd17",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1928",
+      "updated_at": "2026-10-15T03:25:35Z"
+    },
+    {
+      "number": 1937,
+      "title": "Research: certify complete multi-donor R439 star absorption linear system and gain-0 chaining (no new kappa)",
+      "head": "8b4a4d59eb5df9971d44587d9980c3dd0b18fc96",
+      "body_sha256": "31f9da2924b7d3a9214e26eb1830dffe602b92dde8aeb375fabb193c9d76138c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1937",
+      "updated_at": "2026-10-15T02:26:35Z"
+    },
+    {
+      "number": 2044,
+      "title": "Conditional \u03ba = 0.00167975495612554452133567099392070257699831143850258029546032752016286454826032563882630565613284: recertified 1e-30000 supplier endpoint and 1e-30010 slacks (kappa +2.00336e-500 over PR1897): fine source-prime padding (\u2026",
+      "head": "322949a53488d64023fedb89a6774927707e57ba",
+      "body_sha256": "9bdb261c1422db457b9aae34f69ad224bcd08cbb058b2db287f816dbc86d84c8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2044",
+      "updated_at": "2026-10-15T03:25:32Z"
+    },
+    {
+      "number": 2088,
+      "title": "Realize two mutable snapshots with selected physical address maps",
+      "head": "95669bdd93cb3707f42268f5edee48af2a611bcc",
+      "body_sha256": "4502f85bc8e06f678bdbfba8e777ace1689b8ec041ee7548192b054dabdb54c9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2088",
+      "updated_at": "2026-10-15T11:24:08Z"
+    },
+    {
+      "number": 2169,
+      "title": "Record candidate: T16 owner map from a global class-level repack and evacuation LNS on the selected supplier (\u03ba=0.001673341928508063)",
+      "head": "01b15aee27947d3319c8574464bdab80a00d2839",
+      "body_sha256": "bd0dd9e4391b99f1283230d5bd46e8772c90d2f2852e4ad9a6c11e15c6639cab",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2169",
+      "updated_at": "2026-10-15T10:59:18Z"
+    },
+    {
+      "number": 2220,
+      "title": "Conditional \u03ba = 0.001679754956125544521335670993920702576998311438502580295460327520162864548260325638826305656132844: recertified 1e-60000 supplier endpoint, fixed-grid-maximum kappa C - 1/F - B at 1e-60080 slacks (PR2180 / PR2161 retune)\u2026",
+      "head": "fc09a70baf7d6bcff935df226f6fc9e6c6c0131d",
+      "body_sha256": "714c4ef33045f648f6d5587e8e39878cd8a9b62444e9cbf4fc93fa3e7d8b9024",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2220",
+      "updated_at": "2026-10-15T03:25:30Z"
+    },
+    {
+      "number": 2236,
+      "title": "Research: 16-event seven-source connector boundary (no new kappa)",
+      "head": "be03870d764e7875ea9a9f6cc69933c9b1a2456a",
+      "body_sha256": "92a83759b6e8df0946c2e986d3773d772a20dd4f2b07d11b66c830b7c7f505b0",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2236",
+      "updated_at": "2026-10-15T01:26:39Z"
+    },
+    {
+      "number": 2237,
+      "title": "Research exact p=25 root-pair decoder boundary",
+      "head": "bc63155a531d814dd8fa98993d84dc287756ad47",
+      "body_sha256": "11c0abd409362cc41209bbae362d802bb2fdf8ed0882716b48f9f67797036732",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2237",
+      "updated_at": "2026-10-15T01:39:10Z"
+    },
+    {
+      "number": 2239,
+      "title": "Tooling: 1.88\u00d7 faster production joint-dual replay via containment masks with identical receipts",
+      "head": "8fdb992c7d40239f8a5b7602fa6f4636f3d97961",
+      "body_sha256": "164d2c322050dc8ac07d73b1c14267dac1626f638a049b255013b9fadbcb4f18",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2239",
+      "updated_at": "2026-10-15T01:40:36Z"
+    },
+    {
+      "number": 2240,
+      "title": "Research bounded E6 one-extra frame decoder screen",
+      "head": "c8a2b37056e766715c457f56e2dd8172f5bdbccd",
+      "body_sha256": "0cdfc301a54de7c29733eb336343ea6880c2f6e9dc729c4a3154de84ef210fb8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2240",
+      "updated_at": "2026-10-15T01:37:13Z"
+    },
+    {
+      "number": 2241,
+      "title": "Research: temporary two-output sum anchor (local construction)",
+      "head": "5688d8b17830dbb813fba5a509f52449383903fa",
+      "body_sha256": "adff212abc9953b9f612f34beb760e11cf0a6ea2541b618f55fae7693f73e9ad",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2241",
+      "updated_at": "2026-10-15T01:38:44Z"
+    },
+    {
+      "number": 2244,
+      "title": "Paper-side line counts per dimension: Lagrangian bound v \u2264 T(2^k\u2032+1) with exact ladder D4/D6/E7/E8 and no-gos scoped to windows h \u2264 13 (no \u03ba claim)",
+      "head": "c4505d1fe313510196147479938c0713e9acd98e",
+      "body_sha256": "5fb11ad1e3e956b97a0bbe2f86c3be824b6340ba5f4d02003ab6392f5629797f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2244",
+      "updated_at": "2026-10-15T01:47:15Z"
+    },
+    {
+      "number": 2246,
+      "title": "Research: exact four-call floor for A5 conjugate 5-cycle pair (no new kappa)",
+      "head": "0e2b2b201e277858fdc9bcb01d3373a73bbc9d7c",
+      "body_sha256": "2c8f4046a4fe222a70e381a7ca6c4dc2ab88542f53301c6a6ebf9551b630ae21",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2246",
+      "updated_at": "2026-10-15T01:55:30Z"
+    },
+    {
+      "number": 2247,
+      "title": "Add exact E6 sheared-frame cost census",
+      "head": "24456c7c97752b4f301aa8b3873d3b20b7d1a9ae",
+      "body_sha256": "1b983d2a5cf2c90779822dcb2c5f462669ce1bc91dda4690fd2bb60b93f9ff24",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2247",
+      "updated_at": "2026-10-15T02:00:13Z"
+    },
+    {
+      "number": 2248,
+      "title": "Research exact Q8 three-role target minima",
+      "head": "835bd7b1877f56d6d9f4eecd7d1ee32f31593e1e",
+      "body_sha256": "8053c82de2cbdf75c746d54a0e522e98b877837e02ec0dcd392254f5c2b5ea41",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2248",
+      "updated_at": "2026-10-15T02:04:12Z"
+    },
+    {
+      "number": 2249,
+      "title": "Research: high-arity connector toggle cost floor",
+      "head": "0c6ed7958433b2cbc0beaa331ff882aa08221a0d",
+      "body_sha256": "d99ca9e9da0e65d7fc9223885193ad72c44f259e35b02b8dd2ecc8b65e311fc3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2249",
+      "updated_at": "2026-10-15T02:05:27Z"
+    },
+    {
+      "number": 2250,
+      "title": "Execute selected complex compact adapters with sequential repair",
+      "head": "d404b48a1e7b147556b309497d55089c837dddb2",
+      "body_sha256": "727cf34e14474d01000ae045ad45677b666d1dde1e60c1ef11b7361062c94738",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2250",
+      "updated_at": "2026-10-15T02:06:11Z"
+    },
+    {
+      "number": 2251,
+      "title": "Research: exact 96-dimensional P104 shared correction space",
+      "head": "822bceef780d8da9605798f0836ae5320e8e291e",
+      "body_sha256": "f87995fab63fd99b6bfbdebd4246274d943e0813b3c0ae923aa65e28f093b7db",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2251",
+      "updated_at": "2026-10-15T02:09:01Z"
+    },
+    {
+      "number": 2252,
+      "title": "Independent audit: correct QQ16 shear native-frame claim",
+      "head": "6dd49c2b186e08ef1f3efd08f62e1add97ff04a3",
+      "body_sha256": "e1cf32201a820077b442b1ac18b282dbebb9e7a22018ee5556fe19f7e3c1067d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2252",
+      "updated_at": "2026-10-15T02:17:32Z"
+    },
+    {
+      "number": 2255,
+      "title": "Audit: live-byte source-pin drift after merged replay-speed tooling (no new kappa)",
+      "head": "15836362a3cf17d245db8a01d930a12868c043bd",
+      "body_sha256": "48fbebae6632e6058953ead7cb87e3b8405ad97627825aacbf29e21cbc25d4b7",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2255",
+      "updated_at": "2026-10-15T02:20:34Z"
+    },
+    {
+      "number": 2257,
+      "title": "Tooling: 5.36\u00d7 faster production frameopt.close via one-basis modular closure with identical receipts",
+      "head": "e45c48ca6b44b917d8114140a8715352667795ea",
+      "body_sha256": "c82e2cdfed08b7c1133fc4dc5566ce67d7d468d303500ed66293c397720fcd2d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2257",
+      "updated_at": "2026-10-15T02:29:24Z"
+    },
+    {
+      "number": 2258,
+      "title": "Prove bipartite commutator incidence tariff",
+      "head": "6f43f8941fbe73ce411fa4698b8c0d96fb938e9e",
+      "body_sha256": "4611cbb0fc5abe7d928b4eae215671601040b4cd2805c76ea0373c9de6250a2b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2258",
+      "updated_at": "2026-10-15T02:26:11Z"
+    },
+    {
+      "number": 2259,
+      "title": "Research: fuse aligned FANIN4 coefficient stream",
+      "head": "2d3fda68576db8f80fbfebcb7322832bc08fd138",
+      "body_sha256": "23caf8b540c22eac42dc5ff147a8dba25c55948544166d871d4ee79a5bce0d9f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2259",
+      "updated_at": "2026-10-15T02:34:06Z"
+    },
+    {
+      "number": 2260,
+      "title": "Improve conditional \u03ba to 0.0016805 with selective dirty borrowing and physical owner repacking",
+      "head": "fde6b107e26a14da5bac5b66913c914708ea6901",
+      "body_sha256": "5b17654e85913d16c5a006802a9f406af2d75faaab85e50765257458d8b81086",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2260",
+      "updated_at": "2026-10-15T02:35:02Z"
+    },
+    {
+      "number": 2261,
+      "title": "Research UT3(F4) central commutator costs",
+      "head": "91235364f44bc0aaa0babb30b2448c3097cb7f5a",
+      "body_sha256": "ad81ddc4f9616cbfd1c5870795c1b3660d577ff1c0f68ab6f025f2c3d3273c09",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2261",
+      "updated_at": "2026-10-15T02:35:50Z"
+    },
+    {
+      "number": 2263,
+      "title": "Tooling: 3.18\u00d7 faster production R420 xcheck.rref via integer elimination with identical receipts",
+      "head": "99cb4fbf2b55a5e8265e066a1e4793d92f9b5077",
+      "body_sha256": "f78f0031724cde42b8a97d271e9dfc5e04f93e537ea3571cfc3da8f1bee105fc",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2263",
+      "updated_at": "2026-10-15T02:43:10Z"
+    },
+    {
+      "number": 2265,
+      "title": "Outer retune of #2260: #1673 capped phase-cell fusion outer on the selective-borrowing supplier, conditional \u03ba = 0.00168341258854\u2026",
+      "head": "49ce38fee91f33edb54645724e7be9530f5631f6",
+      "body_sha256": "54d898cbe11737f57e0fee6eb54c784482a8a2da3d2780b452b02dfaafb80e82",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2265",
+      "updated_at": "2026-10-15T02:59:40Z"
+    },
+    {
+      "number": 2266,
+      "title": "Research: six-call GF(4) scalar-source connector for all two-source rows",
+      "head": "9382f0d9796cd58831f876943162c536fa14cfd5",
+      "body_sha256": "7bd22b12a6469cd3bc488acc723221f68dcea15ed09f0898aa2a806a5bbaa819",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2266",
+      "updated_at": "2026-10-15T02:50:20Z"
+    },
+    {
+      "number": 2267,
+      "title": "Formalize rectangular decoder rank and minor cost interfaces in Lean",
+      "head": "f7e8e8a3ff8a889366f97e222eef262d61312b58",
+      "body_sha256": "97fb7acce7c40a497f9decc49379c054cf9bd537ac7070952458adfe2b55c187",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2267",
+      "updated_at": "2026-10-15T02:50:08Z"
+    },
+    {
+      "number": 2268,
+      "title": "Add a QQ16 ordinary-source tap witness repair",
+      "head": "daf44bfc752a5e89127defa1cb296210708cf7e6",
+      "body_sha256": "94f94237f0fda9fcf4d24318b37ff0e8848bb7327b4d7d4395ecfbff4af450b4",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2268",
+      "updated_at": "2026-10-15T02:51:10Z"
+    },
+    {
+      "number": 2269,
+      "title": "Conditional \u03ba = 0.001696247139058474: capped phase-cell fusion outer (PR1673) on the T74 supplier with anticipatory dirty borrowing (PR2226, 43 high-helper aliases) on the T74 pivot-566+554 supplier: conditional kappa 0.0016962471390584742\u2026",
+      "head": "b479fc5567bc09ab9185bffe89b62594f36d74e5",
+      "body_sha256": "20f506299586968f4010d2ac18133ad143d7821d6501e0f4f8182d90622e11d0",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2269",
+      "updated_at": "2026-10-15T03:25:25Z"
+    },
+    {
+      "number": 2271,
+      "title": "Research: borrowed-source Gray mask fanout",
+      "head": "95fd439596f72575d3869277c2d01aca1ca6ab6a",
+      "body_sha256": "cd4bfc6f6ec1d3d35614f4abe797349afed66849ae6e574eb7a4bfbbf1def75d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2271",
+      "updated_at": "2026-10-15T03:06:03Z"
+    },
+    {
+      "number": 2272,
+      "title": "Research: dense-polar small-T gain screen - no T <= 6 gain in 1,056,861 exhaustive subsets (scoped negative)",
+      "head": "50e12c263fa443ba587fd6b205f2fc2825d10de1",
+      "body_sha256": "e9001166b2f7d70577e4c67f8f69c51100811af231306e040cb45d4c65a712d7",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2272",
+      "updated_at": "2026-10-15T03:06:04Z"
+    },
+    {
+      "number": 2273,
+      "title": "Machine-check the post-emit read-set of the 15 audit-unread hosted-template fields (no new kappa)",
+      "head": "da92e9578ddaba604b3652c6ae794bc0371e30ba",
+      "body_sha256": "b7af1de21fd30c831251652ae3034b7057fd84e024199df4bd800341a280bb12",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2273",
+      "updated_at": "2026-10-15T03:07:02Z"
+    },
+    {
+      "number": 2274,
+      "title": "Research note: Desargues 10_3 / Pappus 9_3 as T=3 decoder atoms \u2014 frame-universal char-2 (CR2) certificates and the one uncertified Pappus frame (conditional on #2162, no \u03ba claim)",
+      "head": "67294e7dd5bc7caa0d253b74e1d39c376ca99663",
+      "body_sha256": "ce0dd4fd895240e715f386fe723bd2fb085bc369ad95aacc0f41277b683314e8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2274",
+      "updated_at": "2026-10-15T03:10:02Z"
+    },
+    {
+      "number": 2276,
+      "title": "Tooling: 6.47\u00d7 faster production R420 mutants geometry cache with identical receipts",
+      "head": "feb0b96b5c471be0a8c72e6ecb8f9e1f74b48991",
+      "body_sha256": "ebd69022cb98d417ac0a72d5d744f2af3e5a1ce5b29f76b2121c18236a109f8f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2276",
+      "updated_at": "2026-10-15T03:11:23Z"
+    },
+    {
+      "number": 2277,
+      "title": "Dense-pairing floors for overcomplete root-code decoders (E6 36, D5 20, every m) and for every rank-T realisation (E8 72, E7 49, D6 30, D4 12, P104 56), with a correction to Conjecture ID (a) (no \u03ba claim)",
+      "head": "ca7f99921f03398d303bba90245d3ee2e38e95c3",
+      "body_sha256": "647e9ad25d7d138d684c70f4b3d9399fdaea4f06b96d686fb6414eb887c712fb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2277",
+      "updated_at": "2026-10-15T12:20:17Z"
+    },
+    {
+      "number": 2279,
+      "title": "Independent bound: deferred R439 scatter optimum is 94 over all undo ideals",
+      "head": "81fed971e2269b62eae2ee8e3b6bda394930992c",
+      "body_sha256": "3c14a0288dd7ce049a457c5e2da8f97f375f17a3bf4371e24e54b793b163afd9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2279",
+      "updated_at": "2026-10-15T03:16:30Z"
+    },
+    {
+      "number": 2280,
+      "title": "Research: bound two-center R439 defect relay",
+      "head": "d278bdae48180553d8331107a3c977797bd72cd0",
+      "body_sha256": "6e4d5367230c493a2ae9f201a667b761233967a3f17b607436c02b694afd0c3c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2280",
+      "updated_at": "2026-10-15T03:19:18Z"
+    },
+    {
+      "number": 2281,
+      "title": "Conditional \u03ba = 0.0016962471390584742: recertified 1e-3000 supplier endpoint, fixed-grid-maximum kappa C - 1/F - B at 1e-3080 slacks (PR2180 / PR2161 retune) and exact-integer coarse exponential (PR2168): conditional kappa 0.00169624713905\u2026",
+      "head": "9c71e6194841d7355efa343b7cd5646359fad364",
+      "body_sha256": "f9787339d1e41166969c509ae7da8fd39025420ebc313e3a6ffc8e12e5cdbddb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2281",
+      "updated_at": "2026-10-15T03:25:22Z"
+    },
+    {
+      "number": 2282,
+      "title": "Research: prove four-root minimum for seven-source paired-call connectors",
+      "head": "74e57135608dade29029a1107fdfceec8419c932",
+      "body_sha256": "5d814de63e7d1cc22140fd2315f11eaec2e28d2221c30b02e5e2b7bf0b8f8204",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2282",
+      "updated_at": "2026-10-15T03:22:23Z"
+    },
+    {
+      "number": 2283,
+      "title": "Record eight-source weight-four two-sweep obstruction",
+      "head": "21145202e9a27cd9b18ffc7e23383cc83461c4a0",
+      "body_sha256": "7c732b8434f0482ebcddebcbbc4ed22f736b4abcc93b695e67018fd6ccfdeb7c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2283",
+      "updated_at": "2026-10-15T03:28:42Z"
+    },
+    {
+      "number": 2284,
+      "title": "Add 87 reusable Lean theorem APIs and conditional \u03ba = 0.00168357",
+      "head": "e71574b92f6af546013c71293cd03ff58742a1e6",
+      "body_sha256": "b329a32dbb22b44febcbf0da4a0c8c73053d852635be857b0d07c830c27f4fda",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2284",
+      "updated_at": "2026-10-15T03:28:12Z"
+    },
+    {
+      "number": 2286,
+      "title": "Audit (no new \u03ba): side-condition coverage of the pending T74 outer at #2044 \u2014 554 written conditions, none load-bearing false; or-True and g\u00b2 review items resolved",
+      "head": "325601ad64b58f10c6fda659851e3acd43bb10b7",
+      "body_sha256": "9638591ae8b305662fbd2fdb2dd2429be4dc30485cbd9c48dfd834da9f461fcb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2286",
+      "updated_at": "2026-10-15T03:31:40Z"
+    },
+    {
+      "number": 2287,
+      "title": "Propose selected complex layer with recursive row and precision closure",
+      "head": "8c60765b5dea9d862b3b190d55da102a576031bf",
+      "body_sha256": "8fe27a46416c0186195fc85d508870080de617e2c41179cbb1029dac37741dfc",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2287",
+      "updated_at": "2026-10-15T03:40:16Z"
+    },
+    {
+      "number": 2288,
+      "title": "Conditional \u03ba = 0.001696310950415050: exact frame refit of the borrowed gauge44 word (WildIdeas), 1e-3000 certified supplier endpoint, fixed-grid-maximum kappa C - 1/F - B at 1e-3080 slacks (PR2180 / PR2161 retune) and exact-integer coarse\u2026",
+      "head": "bda15a781d9f2177cbf48f6182fc0b9daeeec465",
+      "body_sha256": "3e725273a2dad93f6074f0136b7db710438902e36cedd0a6d2a7a79a04df54ae",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2288",
+      "updated_at": "2026-10-15T04:32:18Z"
+    },
+    {
+      "number": 2289,
+      "title": "Formally audit the selected BIT stopped-recurrence implication",
+      "head": "32ef80ad161b8602b32698ed43186ecc2266cb5b",
+      "body_sha256": "91f8b219636342591af134ad25df226e07ad0d778a6dff5c0cd8644f1eb46281",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2289",
+      "updated_at": "2026-10-15T03:41:51Z"
+    },
+    {
+      "number": 2290,
+      "title": "Research: nilpotent couplings do not save shallow GL3 calls",
+      "head": "8839972a3cc939ebc17562473082189ea166d7de",
+      "body_sha256": "f052603c2ca4dd326ef8dc6457c2e52d8c74b7aba12c06d5a737baa63b311ea2",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2290",
+      "updated_at": "2026-10-15T03:43:29Z"
+    },
+    {
+      "number": 2293,
+      "title": "Independent audit of Lemma CR2 and Theorem B2 (item 2 of the 1166 independent-check request)",
+      "head": "6bc48613ed1c71e5d2e88994235e9e8629129b9c",
+      "body_sha256": "99bdaad2bb365600ec8607d450cc626209b3e2c1513756b9dc138fda93ac2e09",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2293",
+      "updated_at": "2026-10-15T03:56:39Z"
+    },
+    {
+      "number": 2294,
+      "title": "Negative result: P112 two-call batch keeps the 128 copy floor under isometric cross-call label charts (rank-7 cross terms exist; PR1714 OQ3, isometric free-conversion case)",
+      "head": "18d6ac4f864af2b71aa8cf5f4541fcfc4350e2f0",
+      "body_sha256": "87b18c022c05b5fc2d6c704f323cf40fc9bcaa2efaafb015d7f06c770fabdbc4",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2294",
+      "updated_at": "2026-10-15T04:01:07Z"
+    },
+    {
+      "number": 2295,
+      "title": "Discharge the selected BIT fractional-moment premise in Lean",
+      "head": "1bd441f45179a6d042d01a8237ad7faaf4e23a18",
+      "body_sha256": "70b131619c4b0d41940b1670258fb1870c4df3990fc664f5d9acd93b31b3b181",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2295",
+      "updated_at": "2026-10-15T04:01:31Z"
+    },
+    {
+      "number": 2296,
+      "title": "Research: exact nine-source Johnson-chain connector construction",
+      "head": "b2c9ead9ee4a9468deed3d4c96efff8b7d0bb306",
+      "body_sha256": "2b83afea42db9375f9386e9a86af7c0fac151b19b29511ee988f93524156f9ac",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2296",
+      "updated_at": "2026-10-15T04:05:05Z"
+    },
+    {
+      "number": 2297,
+      "title": "Research five-dimensional port decoder for P112",
+      "head": "49f9c1a08bf1fe67a62bd6d2825aa0d03e1b1518",
+      "body_sha256": "422c1b698b9b86ec9298e1bf1a2d10a8c418717361ba26cb2dbc5aa475c4cb09",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2297",
+      "updated_at": "2026-10-15T04:06:21Z"
+    },
+    {
+      "number": 2298,
+      "title": "Bind completed selected callees to conservative outer multiplication",
+      "head": "8507498d363735ced0b0a3f02d5ecf80ed3e3805",
+      "body_sha256": "bd5aea45da263048cc07b265aca7b1a92b975f769ff9dd636eb698d85db6e010",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2298",
+      "updated_at": "2026-10-15T04:07:27Z"
+    },
+    {
+      "number": 2301,
+      "title": "Audit: executed counterexample to the selected chain's cross-stage owner-map binding (no new kappa)",
+      "head": "0b38025ddb2c06f696c54a18f50b0c0228493eab",
+      "body_sha256": "c798a9af2c0391fe608c5d6915cb989e08bf99e84941990ce4f2c51801abef90",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2301",
+      "updated_at": "2026-10-15T04:12:25Z"
+    },
+    {
+      "number": 2302,
+      "title": "Conditional \u03ba = 0.001696395766736081: exact pivot-518 and 506 helper-donor kernel(s) (PR1625 shape, KernelsOnBorrow) on the borrowed words, exact frame refit (WildIdeas), 1e-3000 certified supplier endpoint, fixed-grid-maximum kappa C - 1/\u2026",
+      "head": "d520b92d7bf18efcb7d84f12757face6fe9541f1",
+      "body_sha256": "86e62812992c0f878115b06240263ba557de0a7eafbb25fdf5d76fddf396b2c4",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2302",
+      "updated_at": "2026-10-15T12:36:01Z"
+    },
+    {
+      "number": 2303,
+      "title": "Research exact Q8 mixed-unit register minimum",
+      "head": "1f032798c377af4404936dc26901c278be579ff5",
+      "body_sha256": "5628a20019d74eb5ceb086a023fb433a61385d5cf346d192f6bb95726e42d4f3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2303",
+      "updated_at": "2026-10-15T04:18:50Z"
+    },
+    {
+      "number": 2305,
+      "title": "Compose P104 private descent reuse with coalesced frames",
+      "head": "335e78619a17b7c418e11306f86a72fd366de35b",
+      "body_sha256": "f1b945712deb763741d9b9c6fd67422ec10b8bb4f46c5d9093ec08ddee2f8db5",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2305",
+      "updated_at": "2026-10-15T04:29:18Z"
+    },
+    {
+      "number": 2306,
+      "title": "research: rule out selected-only QQ16 boundary repairs",
+      "head": "4d6e08099c11ff06a8585d04ed59453dd5a62d7d",
+      "body_sha256": "fc4ae53e1abf26f61492e6d22ee0447ed1ca8aa75bd2b888b6bfa03a65f23194",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2306",
+      "updated_at": "2026-10-15T04:29:31Z"
+    },
+    {
+      "number": 2307,
+      "title": "Audit selected BIT fallback words with symbolic unit weights",
+      "head": "29c9d57bd1030c6a96522ab25de7280c6764bdba",
+      "body_sha256": "b653f7ebbf46fda49bd5f90e97727d233dfff3db75eff01ee60179197ee7876c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2307",
+      "updated_at": "2026-10-15T04:29:49Z"
+    },
+    {
+      "number": 2308,
+      "title": "Add exact shared correction basis across P112 frames",
+      "head": "7653e0cc72527c1e7fc02499122d383713ee9d54",
+      "body_sha256": "b0b036c389c6525aa8ec98cdae407b0dcf2ac2a7e62838acf9880849fbe27f12",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2308",
+      "updated_at": "2026-10-15T04:32:44Z"
+    },
+    {
+      "number": 2309,
+      "title": "Improve conditional \u03ba to 0.0016965151242727336 with a pure 44th dirty alias",
+      "head": "95aea1e24dede937f00545a4d8250caa02f60339",
+      "body_sha256": "f561c4f86bb50efb40f1afc5d80e463358f82b67986f99eb7a451dccaaf721f3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2309",
+      "updated_at": "2026-10-15T04:34:00Z"
+    },
+    {
+      "number": 2310,
+      "title": "Bound selected BIT control work uniformly across root contexts",
+      "head": "a5258f548bfb6da71c3b72733fbbd2fb4995c929",
+      "body_sha256": "35b515daa6b550f9f77f1a967bc01e672e641e8e243a7383bd225b7f94c4fdb8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2310",
+      "updated_at": "2026-10-15T04:44:17Z"
+    },
+    {
+      "number": 2311,
+      "title": "Independent verification: supplier-admission premises of the #2265 substitution traced into PR2260 (0 FALSE / 0 MISSING-PROOF; no new kappa)",
+      "head": "6ee781ae149149596b2809d88db5fb836a21fbe1",
+      "body_sha256": "74317b1eee2c34de75277c2d46961b0d0cbd0a5e864df51c3d7ca39a91da4182",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2311",
+      "updated_at": "2026-10-15T04:49:12Z"
+    },
+    {
+      "number": 2312,
+      "title": "Conditional \u03ba = 0.001696891067241618: helper width exchange on the borrowed T74 words",
+      "head": "6a05b1bb39a95d1608db8522f40c2dcdbd6e4cf9",
+      "body_sha256": "4a7b9a7401723e63a8a0a2e86a54cad0ae85f06493a5f03a230ffd13f3e2de35",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2312",
+      "updated_at": "2026-10-15T05:29:06Z"
+    },
+    {
+      "number": 2313,
+      "title": "Research: execute certified Gaussian resampling through exact integer recovery",
+      "head": "190637e62401516c72b267859c0dd51cac607f6d",
+      "body_sha256": "0b1faa33c25dfdf7da5feb241f427e53961ff52a84f33fbea642f5d01a18394c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2313",
+      "updated_at": "2026-10-15T04:51:40Z"
+    },
+    {
+      "number": 2314,
+      "title": "Prove a sharp weighted region for the mixed UT4 target",
+      "head": "16319e3f12fc95d5820a3f1802e2976949c92933",
+      "body_sha256": "a155d4e6095ec36b9db10f6cf15f31b9330aaf2db67ab364ce5d8f4823a9f852",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2314",
+      "updated_at": "2026-10-15T04:51:55Z"
+    },
+    {
+      "number": 2315,
+      "title": "Independent verification (no new \u03ba): record candidate #2269 T74 borrow43 \u2014 words, 437-helper fill and moment root reproduce; stale evidence, unpriced buffers, X2 open",
+      "head": "4a2f20ea339e30348448096ca789d0efe55df9bb",
+      "body_sha256": "b7873cd93672d1ced8012bd3a5f8a4550021206fe1268f5cc9be00b23e7a7c9d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2315",
+      "updated_at": "2026-10-15T04:54:21Z"
+    },
+    {
+      "number": 2316,
+      "title": "Audit Windows path-key rejection in selected PR1094 manifests",
+      "head": "1b732744b66cc3461559d52349ae07fa31d444f8",
+      "body_sha256": "cbc67affce641f6188ebf95aea690bd768f723ed29f5a4936489d34bc6795405",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2316",
+      "updated_at": "2026-10-15T04:55:06Z"
+    },
+    {
+      "number": 2317,
+      "title": "Screen: no thirteen-call five-SWAP word with commuting projectors (scoped negative, no new kappa)",
+      "head": "139779c86ba8215910117ddb383e4df007b23dcf",
+      "body_sha256": "e38e56095e313343b0c39ed2962a6578d422330dae5a675a1d8f331ea287bda5",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2317",
+      "updated_at": "2026-10-15T04:55:06Z"
+    },
+    {
+      "number": 2318,
+      "title": "Research: exact Q8 pair minima under unit-priced inverse labels (complete r=2 census, no compression)",
+      "head": "5b800ec52af93ef62adf610f52c9488e71054619",
+      "body_sha256": "97f3124cf310483920b9921182acff514765d173232cf056ad3d7e9a8cc080fd",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2318",
+      "updated_at": "2026-10-15T04:55:16Z"
+    },
+    {
+      "number": 2320,
+      "title": "Tooling: 1.54\u00d7 faster production data_corners.cpp via cached update columns with identical receipts",
+      "head": "2c7dfd60f7a45d7c6b433afb9d73346f13c59832",
+      "body_sha256": "d0864bc4fd4c1a61f10dabc1638909becae6116405f4cd05ce5568bfe30c420d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2320",
+      "updated_at": "2026-10-15T05:13:12Z"
+    },
+    {
+      "number": 2321,
+      "title": "Prove the sharp COPY cost of the fixed P112 two-column completion",
+      "head": "0665be26c2db1bd7f393d829e786698b34b626e4",
+      "body_sha256": "fb70a3c829ab20842dc1631f65a393d34d65bb5fc1fbd5f91c074f23d4595114",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2321",
+      "updated_at": "2026-10-15T05:14:48Z"
+    },
+    {
+      "number": 2322,
+      "title": "Improve conditional \u03ba to 0.001697060296258836 with coherent handoffs and retimed hosting",
+      "head": "002304ef01c4416a127916169ae6d94c1bee052b",
+      "body_sha256": "c547003274f496323da0fb0d173fc5f99dc41fad35b6e4e1ed522fc8659e5561",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2322",
+      "updated_at": "2026-10-15T05:15:03Z"
+    },
+    {
+      "number": 2323,
+      "title": "Prove dirty-workspace pairing compression and a three-role UT4 handoff",
+      "head": "b065a51249198a23e24195023f4b2e83eda1dd9c",
+      "body_sha256": "f9a675c1db9c5d81c0a2cfd7656f7cf39e117c5112010a74b13afe5dae171672",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2323",
+      "updated_at": "2026-10-15T05:15:45Z"
+    },
+    {
+      "number": 2324,
+      "title": "Prove sharp borrowing-fit cutoff for PR2234's prescribed stock",
+      "head": "0ec8a26572069b6109decadd488b9770944a4296",
+      "body_sha256": "57976d758b65097c905fc26bcfe18375a8e0fc17c1d0944bb14f72f8f1e59386",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2324",
+      "updated_at": "2026-10-15T05:23:01Z"
+    },
+    {
+      "number": 2326,
+      "title": "Research: no single coordinate tap restores the QQ16 selected inputs",
+      "head": "fb7d64cd4a51c49bc56920305b0aca64011a420c",
+      "body_sha256": "fd975cb12fa40b6e168170af522e182af944e5692eb751a437738b2161592f53",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2326",
+      "updated_at": "2026-10-15T05:30:38Z"
+    },
+    {
+      "number": 2327,
+      "title": "Audit PR2287 exact-grid primitive prefixes and shift conditions",
+      "head": "367a8539770166d3ccd555583b41e96097178a3e",
+      "body_sha256": "3bdc3cb9e70df32f6f259ddebdf09dac6aba84fe2f0a9a54667b679047b0bd48",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2327",
+      "updated_at": "2026-10-15T05:32:43Z"
+    },
+    {
+      "number": 2328,
+      "title": "Research: the QQ16 shear prefix needs exactly sixteen native lines",
+      "head": "6b2717ce2bbb13c2152e64efea48867b78840bbb",
+      "body_sha256": "1e2e4e2da4ffbf9ed1d34721d810ac05eb007056b19501b710eb3c78c71cf07d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2328",
+      "updated_at": "2026-10-15T05:30:31Z"
+    },
+    {
+      "number": 2329,
+      "title": "Tooling: 3.15\u00d7 faster production Clifford zero_state via gate tables with identical receipts",
+      "head": "68a7161a610f175dc8e7b22f95acd033191450d9",
+      "body_sha256": "c36137af1e9da065d794a14f19251b094f22ee24a70a63cef1e7115b1fda7ce9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2329",
+      "updated_at": "2026-10-15T05:39:46Z"
+    },
+    {
+      "number": 2330,
+      "title": "Research note: justify decoder split min-max via linking systems",
+      "head": "886a56719f556607e418e17a6849d37728211eb0",
+      "body_sha256": "6f8f482a21ea391e26ec2b123d527fc52fa6f8fbe08e48480f7430e1bd8ea912",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2330",
+      "updated_at": "2026-10-15T05:33:52Z"
+    },
+    {
+      "number": 2332,
+      "title": "Research: bind actual selected BIT matrix preparation to PR #2310's control tables",
+      "head": "0ee2ca645f3b04e1e4df1e1055b6f9aab09eaa95",
+      "body_sha256": "0bedceb47079d68829e13e84399c99d8cccacd54c40ce29a8fe969def18a90a9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2332",
+      "updated_at": "2026-10-15T05:37:16Z"
+    },
+    {
+      "number": 2334,
+      "title": "research: nine-line counterexample to the B2 acyclic-edge strengthening",
+      "head": "0fabfe9316c14835e9156214979f7510e3e538bc",
+      "body_sha256": "dbf9508ba158e196483c254378414c2b1548c945097432dd094501f8273e1209",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2334",
+      "updated_at": "2026-10-15T05:50:09Z"
+    },
+    {
+      "number": 2335,
+      "title": "Research: F-star cert(M) falsifier census on exact 3-total decoders (scoped negative, no new kappa)",
+      "head": "856cd7603ba679aa56294e53d60840061d176778",
+      "body_sha256": "0e4119a499f589fcbb3af550e1e401c717766bcc10a28fca31ff5a43c5f2ee91",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2335",
+      "updated_at": "2026-10-15T05:50:49Z"
+    },
+    {
+      "number": 2336,
+      "title": "Evaluate selected PR1094 final-stage replay on native Windows",
+      "head": "3747d54462d5d77ced63682a2f75154523a0447f",
+      "body_sha256": "8eb04b082c63104bd5dc6241b39215ce219c1a3f4f6b6fbe39c18305d928a838",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2336",
+      "updated_at": "2026-10-15T05:52:01Z"
+    },
+    {
+      "number": 2337,
+      "title": "Independently corroborate coalesced P104 private reuse and boundary variants",
+      "head": "b2653c1bcf8fefa474b8d5c8508bbacbbcfd42c7",
+      "body_sha256": "ebac0e8edc4f0cb17e5ac56b8aa930d58f5e74bfe90df62ff3573dcb3e44ae82",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2337",
+      "updated_at": "2026-10-15T05:52:07Z"
+    },
+    {
+      "number": 2338,
+      "title": "Decoder floors are tight in the frontier format: one F2^9 label table, factors in col M of a rank-8 realisation (P112 64, E8 72, P104 (#968's unit) 56; two-call batches 128) \u2014 no \u03ba claim",
+      "head": "b9d4424208754eae09eb5f2095232ce9a9544b66",
+      "body_sha256": "2d529cbf87db6bf1c83ec6fdf0338a0a44e1473d7b6a474c6409a7e3a0436844",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2338",
+      "updated_at": "2026-10-15T12:20:18Z"
+    },
+    {
+      "number": 2339,
+      "title": "Construction (no \u03ba claim): PR2226 low anticipatory aliases on the T74 borrow words \u2014 400 helpers, mass 5264, packing ceiling 0.0017179\u21920.0017480",
+      "head": "bf1742aee4d855efb8bbd44a8419eddb33a679e5",
+      "body_sha256": "ae72a1ce12f35d36bee7d624085b199fadd8317314e81eb1eeed20d897e73590",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2339",
+      "updated_at": "2026-10-15T07:15:53Z"
+    },
+    {
+      "number": 2340,
+      "title": "Research: the MAS edge form of Theorem B2 (iii) is false (two exact counterexamples; no new kappa)",
+      "head": "42a683190722292143e9b16716bc3baaba12e46f",
+      "body_sha256": "b0b534b76b442a8bc4cb813ced3b76939ed17e5e77cb6ae07998213836d4453c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2340",
+      "updated_at": "2026-10-15T06:07:39Z"
+    },
+    {
+      "number": 2341,
+      "title": "Formalize the conditional common-label tensor lift",
+      "head": "f448ce821ba32001bf1ec13f7088450d2edcd112",
+      "body_sha256": "8e4b329a5ac76b23d98cf0ebfd27fb981d73abedb17aa7b7956bb4145f7e4607",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2341",
+      "updated_at": "2026-10-15T05:58:21Z"
+    },
+    {
+      "number": 2342,
+      "title": "Independent proof: P112 three-call COPY192 via a sharp block count",
+      "head": "25cd637a6f7bf92669bce28836e3015cbae87167",
+      "body_sha256": "5e38e45455929ae18591ea73abbd31bbc09f6baa64b6c88dcefde2f43d8c1ae8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2342",
+      "updated_at": "2026-10-15T05:58:53Z"
+    },
+    {
+      "number": 2343,
+      "title": "Research: body-dependent BIT stock cutoff and fixed-point counterexample",
+      "head": "d81abe6253a63e50ccb38aa79f08ef1407ff3f6d",
+      "body_sha256": "8e3f2644aeaf2d63cdd7223d8661444e67c17775bd805a5e76c2d8a2eaf7942b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2343",
+      "updated_at": "2026-10-15T05:58:53Z"
+    },
+    {
+      "number": 2344,
+      "title": "Preserve six input roles in Windows selected-output comparisons",
+      "head": "b599a781bfa8a8fb09a8dea7fa924edb353c21cb",
+      "body_sha256": "a3bff55f8808300b4480a22cf7433687d888a800e834f5221bba91c14ab119b7",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2344",
+      "updated_at": "2026-10-15T12:05:53Z"
+    },
+    {
+      "number": 2345,
+      "title": "Research: exact early-prefix P104 shared correction dimensions",
+      "head": "2a5fa34a967e7567abf01611f92a6ab69e8c901a",
+      "body_sha256": "9956a243436090801ccf98c58455a3bcd34e9db0c3b5fb38e71b27ef12816cb7",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2345",
+      "updated_at": "2026-10-15T06:02:45Z"
+    },
+    {
+      "number": 2346,
+      "title": "Prove QQ16 final-only loss despite 64 initial query coordinates",
+      "head": "653520d7f18f686ea3a274b4963981f5be563477",
+      "body_sha256": "34ec4f05a5ac3607dbbf3b4b0411bc91e41b78812d948edebe554b4c833b1c39",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2346",
+      "updated_at": "2026-10-15T06:04:06Z"
+    },
+    {
+      "number": 2348,
+      "title": "Tooling: 2.63\u00d7 faster production hosted digest via fragment reuse with identical receipts",
+      "head": "b5c3b567f13b18881161cf6c445e4ef251870558",
+      "body_sha256": "f1bb53bf3ad7b471bfd9660a73772cf810a168cfa3d230b66180836a63037fa4",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2348",
+      "updated_at": "2026-10-15T06:07:45Z"
+    },
+    {
+      "number": 2349,
+      "title": "Conditional \u03ba = 0.001697065994108880: owner relocations on #2322's handoff construction",
+      "head": "bb2486ec93c099afe9acd93442f13864b566296a",
+      "body_sha256": "bf4e019d96bbdb3b581ddcb07ccfbcbede51b71d19263a2af0439fb7987e9b0c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2349",
+      "updated_at": "2026-10-15T06:07:34Z"
+    },
+    {
+      "number": 2350,
+      "title": "Independently audit QQ16 intervention obstruction and emitted route bindings",
+      "head": "88f16b5a675918f2014cc82618ced58429a13837",
+      "body_sha256": "1df6321b485bbec5581f97eadd1d6fc3e38151261ec0f78b0c4f742cabaeb784",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2350",
+      "updated_at": "2026-10-15T06:08:26Z"
+    },
+    {
+      "number": 2351,
+      "title": "Negative result: Corollary J fails on the whole #2111 121-line pool for every phi (rank 266, 30/30 immovable); exhaustive <=5-line immovable atoms all satisfy cost >= v",
+      "head": "491c44a70d2316589a56e8c4b80817c4a0b6cbc4",
+      "body_sha256": "eb2b4f2f380f5f73353cefc6d5b5f0fa939997c1255c45f8c70e4eea201d41a1",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2351",
+      "updated_at": "2026-10-15T06:08:26Z"
+    },
+    {
+      "number": 2353,
+      "title": "Audit P104 relay floor with an explicit monotone-lifetime model",
+      "head": "2704eadf6b5205d4b965e9c6fc6dce28b89783cf",
+      "body_sha256": "39b88cccc9a63e3dc485cd0ae16ab2b504ffeace9b1d0b1af2e8e9b7f85a2daf",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2353",
+      "updated_at": "2026-10-15T06:11:52Z"
+    },
+    {
+      "number": 2354,
+      "title": "Prove the sharp 66-port threshold for a QQ16 witness family",
+      "head": "308ebc7405303bb7ed91b012bb705949c6091a16",
+      "body_sha256": "5457139e39b4d6e4f60e1029bce6727cb57d3d7a748c93481080c5418a460219",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2354",
+      "updated_at": "2026-10-15T06:20:01Z"
+    },
+    {
+      "number": 2355,
+      "title": "Add an opt-in owner-bound selected replay successor",
+      "head": "e4807b8c8cc42235d3794314f44d9210ac9c38de",
+      "body_sha256": "377778b0cf4c8045dd3aab17c7ef618c54769a058690ecf45931d19f26cfdc75",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2355",
+      "updated_at": "2026-10-15T06:20:02Z"
+    },
+    {
+      "number": 2356,
+      "title": "Scoped negative result: R439 column 7 needs five taps under two fixed undo orders",
+      "head": "8ffeca2cf753d13ac78d90ce159e0037fdfda374",
+      "body_sha256": "efba9fb972571b28e5df295c75fa903fd20c5bb849d2b7274824f2f38ccf6f23",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2356",
+      "updated_at": "2026-10-15T06:21:34Z"
+    },
+    {
+      "number": 2357,
+      "title": "Tooling: 2.26\u00d7 faster production emitted-local audit via integer rows with identical receipts",
+      "head": "3bc76f12b29732e901f13b19d341253379f04cb1",
+      "body_sha256": "180db8d64f529d8018affd5c0ff90595d4c61a9a6fe54fbb38dacf97816a73e3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2357",
+      "updated_at": "2026-10-15T06:24:30Z"
+    },
+    {
+      "number": 2358,
+      "title": "Research: sharp P104 dimension-98 prefix boundary",
+      "head": "e8950db523c9682518049a42cfc28642224292ff",
+      "body_sha256": "f507d13fe795f3bf5208277ba5d88f23ebcbdde6ccea2ccd753143acfc9bd4df",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2358",
+      "updated_at": "2026-10-15T06:25:36Z"
+    },
+    {
+      "number": 2359,
+      "title": "Independent raw-word ledger for T74 four-role pricing change",
+      "head": "2d648618f33f51e37700f47abb424bd14ad35e16",
+      "body_sha256": "ea572b50de0081142a5de28ab026fca2405f83b240dc8c672a3b11fa8e1f523f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2359",
+      "updated_at": "2026-10-15T06:26:39Z"
+    },
+    {
+      "number": 2360,
+      "title": "Certify PR2339's whole-helper T74 packing cap below 0.0016870",
+      "head": "16d4ea6c26cd45ebb9301ab90f33a73615627f8d",
+      "body_sha256": "16b965997064069bf55d504fbee5514f21866e39f0534fa9a034aac9754b87d1",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2360",
+      "updated_at": "2026-10-15T07:15:55Z"
+    },
+    {
+      "number": 2361,
+      "title": "ci: select affected verification inputs and preserve historical replays",
+      "head": "91669e2a3316751ceba6330d19b09fdf5e6b95aa",
+      "body_sha256": "0e87c9bdc6fb3e22efe4fc3ab6f1cb9e99a221253ccc1791e9a416a624ec082e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2361",
+      "updated_at": "2026-10-15T06:30:18Z"
+    },
+    {
+      "number": 2363,
+      "title": "Improve conditional \u03ba to 0.001697147064845350 with whole-role augmenting paths",
+      "head": "d815dbe374096f1b96a224a2dcb6a9167c5cfa91",
+      "body_sha256": "d47594068602812973a12c593d0e39b25ad5e003be26088f2c8a17f89324d9e5",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2363",
+      "updated_at": "2026-10-15T06:38:53Z"
+    },
+    {
+      "number": 2364,
+      "title": "Research: execute complete generic packets with nested child dispatch",
+      "head": "b9293bb14d40f8e820ce5efd99939278e5871c56",
+      "body_sha256": "bcf38c3f03650c6563a5d3c26b78a594d62b21464bd1ad7f4dc9454ee0bcb541",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2364",
+      "updated_at": "2026-10-15T06:41:07Z"
+    },
+    {
+      "number": 2365,
+      "title": "Research: prove uniform parameter bounds for PR2298",
+      "head": "24746e536dfa5e632d4f3036a477ec4f1b7bb0e6",
+      "body_sha256": "9659ae218df209575930caf4b1dd319663e841300f24bef8a2f0ec9e997b3584",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2365",
+      "updated_at": "2026-10-15T06:43:24Z"
+    },
+    {
+      "number": 2367,
+      "title": "Independently audit the P104 tail-prefix rank certificates",
+      "head": "9c45d1ad463c04a4fec2c4932337cdeb6ff81bf1",
+      "body_sha256": "5ec09bb0fec46bb3c1f4dbe4b7943b4f313fefa74ff1913c579b83e2784cf40b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2367",
+      "updated_at": "2026-10-15T06:44:21Z"
+    },
+    {
+      "number": 2368,
+      "title": "Prove QQ16 shear plus an old-chart read still loses selected inputs",
+      "head": "e5d4d78dcfdd55d323fcbc60df477b9f25c7abff",
+      "body_sha256": "50df9777fd98643a0abbff1431b0e41b8add7678729600cb04173be548b04614",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2368",
+      "updated_at": "2026-10-15T06:47:57Z"
+    },
+    {
+      "number": 2370,
+      "title": "[Lean] Derive aligned ADD execution and finite-trace bit budgets",
+      "head": "9db8170ed82cd0d96b696d3fb7ba4c839daef884",
+      "body_sha256": "accc0e2d98cafe72cf10039c79c3f85271361f9d31501277f0b01f4d0dfad6c5",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2370",
+      "updated_at": "2026-10-15T06:47:03Z"
+    },
+    {
+      "number": 2371,
+      "title": "[Lean] Bind exact L450 fragment bytes to checked chart payload",
+      "head": "5bbe542064308dbc10f50582c05116ebd0925223",
+      "body_sha256": "93e39bc4be61a9c9f6def64621a90e7ae21a7dc059ba8d187c9feaf5549b8f6f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2371",
+      "updated_at": "2026-10-15T06:48:32Z"
+    },
+    {
+      "number": 2373,
+      "title": "Replay deferred target undo through native 5/9/11-stage checkers",
+      "head": "b52f87f5355ad9f02ca4ac4395117655ac1b19c7",
+      "body_sha256": "097ff998ccac037b8c007350872c5bee1963415515368fee4f81b82d5480025b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2373",
+      "updated_at": "2026-10-15T06:51:20Z"
+    },
+    {
+      "number": 2374,
+      "title": "Conditional \u03ba = 0.001697194950901770: exact owner fill on #2322's handoff construction",
+      "head": "5449da65da12bdfd94675dccc38731eaa91e93b6",
+      "body_sha256": "56df0a32a37239aa82581d1f48563725aec8f041d05fcd45406ac11f566b5795",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2374",
+      "updated_at": "2026-10-15T12:36:03Z"
+    },
+    {
+      "number": 2375,
+      "title": "Tooling: 3.09\u00d7 faster production frame-pair enumeration via eight-bit neighborhoods with identical receipts",
+      "head": "462593231536f771050da8f44390b3e4eba95783",
+      "body_sha256": "1b140457a12b02c0a079a09e4d4038b00215bb42e2679e4d7731e9290f14f8e8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2375",
+      "updated_at": "2026-10-15T07:21:23Z"
+    },
+    {
+      "number": 2376,
+      "title": "Docs: map which QQ16 observation contracts are already checked",
+      "head": "157143ab500812dd16cf50d12c1e5749bd6ea482",
+      "body_sha256": "20c45fb2fa170d525fca7eceda99ae7a0b66b8abfc2fa1bda6a02e3771b1fa74",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2376",
+      "updated_at": "2026-10-15T06:54:10Z"
+    },
+    {
+      "number": 2377,
+      "title": "Fix registered replay descendant cleanup on command exit",
+      "head": "5d444eee7dedd997c6094776fbb32ed19831e241",
+      "body_sha256": "514bde6a5bc531a4ed529647ac6d49f11af60bd2e2bb023345600ce3c6b58c19",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2377",
+      "updated_at": "2026-10-15T11:52:41Z"
+    },
+    {
+      "number": 2378,
+      "title": "Formalize selected monomial coordinate and signed-word interfaces",
+      "head": "5816f94741709e8082e06a2cc9a114ff87411f3d",
+      "body_sha256": "d957fea4c13a108192c7e4172aad6a4664ef32fd1b9da3bf02b05498769b5d4f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2378",
+      "updated_at": "2026-10-15T06:59:22Z"
+    },
+    {
+      "number": 2379,
+      "title": "Independent exact-F2 certificate: anti-Fano 12-line configuration has minimum cost 12 (no kappa claim)",
+      "head": "d01f1b65f9aef2791ae01d5efd871436f9d7e19b",
+      "body_sha256": "68ee0a9ba4232d0f15b8b816f079af3465186a0154e0b8e35013dee841f4dbf6",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2379",
+      "updated_at": "2026-10-15T06:59:40Z"
+    },
+    {
+      "number": 2381,
+      "title": "Research: sixteen-array transcript floor survives QQ16 selected shears",
+      "head": "34d86fb6c128e87ec3f2841c560869c11a8e0764",
+      "body_sha256": "f0d05da36e0f0248f4a97799e4cff49163c06f8d672e83015e96a78434cc912d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2381",
+      "updated_at": "2026-10-15T07:08:53Z"
+    },
+    {
+      "number": 2382,
+      "title": "Research: extend fixed-reader P112 two-total COPY exclusion to 47 ports",
+      "head": "2d7807f60f19146947ad24cb22719d4048a92be3",
+      "body_sha256": "4bb8de252b86a962fd82d1d4bc51db9f8193312945cd5bbda5139d2d738ebffb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2382",
+      "updated_at": "2026-10-15T07:07:51Z"
+    },
+    {
+      "number": 2383,
+      "title": "Research: P104's relay floor survives free private-code access",
+      "head": "41f3d517b521500b114f3491f5f5b68a0550f410",
+      "body_sha256": "a3d98a8fd6cf4705a83a5a1cfc83edccb765183752511cca4b666641a6ecd15f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2383",
+      "updated_at": "2026-10-15T11:50:37Z"
+    },
+    {
+      "number": 2384,
+      "title": "Research: the QQ16 66-port read set still loses selected inputs",
+      "head": "b9ef408b1cb0fcd34ab1f1bdbe645573d5de188f",
+      "body_sha256": "a13f337bd6dee05298d89986a06814321a41204126823102af295fa877a31c7c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2384",
+      "updated_at": "2026-10-15T07:11:13Z"
+    },
+    {
+      "number": 2385,
+      "title": "Research: P112's nine-term COPY floor holds for every nonzero coefficient",
+      "head": "3fa1c93c8c66ada108336b99add7db927ea9fa1f",
+      "body_sha256": "48235b0fd83eeea13c84f9a3df32a1f7722940e44b507c5e878809b47eb56652",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2385",
+      "updated_at": "2026-10-15T07:12:33Z"
+    },
+    {
+      "number": 2386,
+      "title": "Research: sharp complete-vector request bounds for selected BIT control",
+      "head": "723307cb14ecf731b9b16a2422d07afc2e200df9",
+      "body_sha256": "9d42f33ae7c8b7d8d1231f56dcb25acf3d460fa635dbafec29b46bc20df0a887",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2386",
+      "updated_at": "2026-10-15T07:15:04Z"
+    },
+    {
+      "number": 2387,
+      "title": "Negative result (no \u03ba): legal 400-helper owner fill of #2339's 80-alias T74 words reaches b = 0.00168654, 99.994% of a certified width-aware cap b < 0.0016867 \u2014 below #2269",
+      "head": "20fb6953b0d2077c19e45f731ec587ebefb9a380",
+      "body_sha256": "1cbd40f6b9ed2e1c3a0b002d3d97cfb2d8735ec784293456a245c1a175687821",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2387",
+      "updated_at": "2026-10-15T07:15:36Z"
+    },
+    {
+      "number": 2388,
+      "title": "Research: R439's B508 frame floor survives an earlier left boundary",
+      "head": "0616027e3d31f5d50d329c6b78c4f7927cd0b2e3",
+      "body_sha256": "4b3604f5ec53c210b1f09ec202e92bf6e1518a05d75be04cb44a31b765779c8a",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2388",
+      "updated_at": "2026-10-15T07:15:59Z"
+    },
+    {
+      "number": 2389,
+      "title": "Research: adaptive QQ16 reads still need 66 ports; 45 optimal sets",
+      "head": "aed06c8f8d60ce97b7eb3a7c6c17ad12cbe1e863",
+      "body_sha256": "7e2253fa798c81052d937ccccfd7e95451f4bcafd184fba89da222efc1d85ccb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2389",
+      "updated_at": "2026-10-15T07:17:51Z"
+    },
+    {
+      "number": 2390,
+      "title": "Research: bind the selected complex event ledger to its height guard",
+      "head": "97d1b23a69c9488d0667a4e666fe3875d56113c3",
+      "body_sha256": "7cd4ff7740d5aaa92744edb4fa210d72ccbecd02a4b661a6f17c9b098b4b33d8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2390",
+      "updated_at": "2026-10-15T07:19:36Z"
+    },
+    {
+      "number": 2391,
+      "title": "Native centre sharing: zero first transcript, later query 1/4",
+      "head": "5efcbb6058d27aa8b988db8f18c7b678166b2783",
+      "body_sha256": "cc4c1192ca10dee77c2ee39b94f26194d43cb45704c305278280da07a2486a4e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2391",
+      "updated_at": "2026-10-15T07:19:40Z"
+    },
+    {
+      "number": 2392,
+      "title": "Research: the P104 no-relay access-cover minimum is 4,580",
+      "head": "2134975a339ccb6d011e2794d0382e2895fdf8e8",
+      "body_sha256": "4d2091564ebd8f5806eacd2a497d0e1680672769dd64277df12e6c34652863d3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2392",
+      "updated_at": "2026-10-15T07:20:48Z"
+    },
+    {
+      "number": 2393,
+      "title": "Research: P104 Y0 needs 48 new helper lifetimes, and 48 suffice",
+      "head": "8b3e3a22c9e957990863ef60a561072dfcf08271",
+      "body_sha256": "a4069ccb979a6a502fd86011790d109df1f06d5237130652eae3a65cd481d9f6",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2393",
+      "updated_at": "2026-10-15T07:21:41Z"
+    },
+    {
+      "number": 2394,
+      "title": "Research: lower PR #2339's initial T74 prefix with 64 monomial applications",
+      "head": "444e13cd04a4b1072bbe2470a3699c5eb9b96b08",
+      "body_sha256": "ae852c8379a37a4673a3bf5c4df018ffdb1c4a933c1c25c925ef031771d2a501",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2394",
+      "updated_at": "2026-10-15T07:35:39Z"
+    },
+    {
+      "number": 2395,
+      "title": "Research: a stronger P112 two-call COPY floor for arbitrary cross forms",
+      "head": "361de309e5fc05f83862f0b6c611210eda9837a1",
+      "body_sha256": "996f567245415f80195c6d0a207be4ebced7628bd523765711cbc3d144035327",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2395",
+      "updated_at": "2026-10-15T07:24:38Z"
+    },
+    {
+      "number": 2396,
+      "title": "Seven-source universal connector word in the singleton+DUO alphabet: 22 calls at 24 adds, batch 276 queries at 278 adds (no new kappa)",
+      "head": "f43a83977530a52092e9196b060eb3c64620b8c3",
+      "body_sha256": "623c853dd520b99051f275f18cf73e4f645b0e96258b88cb69d0b1295ba68c6f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2396",
+      "updated_at": "2026-10-15T07:25:28Z"
+    },
+    {
+      "number": 2397,
+      "title": "Research: an optimal 144-call seven-source sparse-mask connector",
+      "head": "5a306ee4115848883ff297adbec59e81ab85f14b",
+      "body_sha256": "4cc6303b4e851564b06e1b4cb1e2aee1383732ddbe127d7cefb1012db7cbde14",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2397",
+      "updated_at": "2026-10-15T07:25:49Z"
+    },
+    {
+      "number": 2398,
+      "title": "Research: extra factors do not lower the fixed P112 COPY-power optimum",
+      "head": "8051d99dfd91a788d25bfc92c3863a33c658a5a9",
+      "body_sha256": "ca91887f5f80ceba96358a1a792c6d7e7d6934d16a9ef4158e18f51bd3f0d8f5",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2398",
+      "updated_at": "2026-10-15T07:26:48Z"
+    },
+    {
+      "number": 2399,
+      "title": "Research: completed-callee substitution at PR #2234's BIT leaves and headers",
+      "head": "14458fda3cac4441c27980d584582ebbbb3e9233",
+      "body_sha256": "b45fa0a993a577287d7084afbd7a08f754ee609cd81785bd1535c418b4a184d2",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2399",
+      "updated_at": "2026-10-15T07:28:44Z"
+    },
+    {
+      "number": 2400,
+      "title": "Research: PR #2308's P112 shared correction needs at least 12 COPY units",
+      "head": "ca5baa17182636a35536c1605a2d2da550e715b7",
+      "body_sha256": "eb146447a4fdfbaa1e5c65b0330317287a61db00a4f0f2d5213ebaed68e9904a",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2400",
+      "updated_at": "2026-10-15T07:31:25Z"
+    },
+    {
+      "number": 2402,
+      "title": "Research note (no \u03ba): T74 #2322 words \u2014 owner fills capped at b < 0.001697195759 (#2374 within 8.1e-10); exact prices of handoffs, aliases and rank-1 climb merges",
+      "head": "a419c9966ccff084dc0907c6476752fb8d8d6f08",
+      "body_sha256": "2bba892727ceaf46c3c634b82e66273b57e3a1214d7dd90eb790d22e938a11e9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2402",
+      "updated_at": "2026-10-15T07:47:44Z"
+    },
+    {
+      "number": 2403,
+      "title": "[Lean] Restore saved exponents and refine ambient metadata XOR",
+      "head": "df580dfc3009a6c6c2a8a895949acf74230c388f",
+      "body_sha256": "eabc01e382c104ddf14f7fd96b4d8940b1726cf47bb4aaff1de19a67f8f3f6a1",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2403",
+      "updated_at": "2026-10-15T07:42:51Z"
+    },
+    {
+      "number": 2404,
+      "title": "Formalize normal-class rank and complete count/price bounds in Lean",
+      "head": "d7db77c9e3f19fd1196393c045e597539fdcfc8a",
+      "body_sha256": "888ce9fd673dcbac676dfe2c0bc1c031f6e29365bfcb55ea571abdff2a360e7e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2404",
+      "updated_at": "2026-10-15T07:43:44Z"
+    },
+    {
+      "number": 2405,
+      "title": "Research: bind canonical raw prefixes to a selected coefficient site",
+      "head": "1ea7f419333b4f9e79f7c061a7a485c111179914",
+      "body_sha256": "4a84d2521031a727ed9dcfdcb23cb8f482a96ccfb1875a6d1c7d983a1ca6878e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2405",
+      "updated_at": "2026-10-15T07:45:51Z"
+    },
+    {
+      "number": 2406,
+      "title": "Research: cap T74 scalar and handoff frame refits at b < 0.0016972",
+      "head": "fafb673f6d9244a46f7a3fc9bdb7c25eb2d2ad39",
+      "body_sha256": "f71b7678dfea465edf701e30521d8ce4936caa8eed5d3b37652327bede4a807e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2406",
+      "updated_at": "2026-10-15T07:45:52Z"
+    },
+    {
+      "number": 2407,
+      "title": "R439 single-copy interleaving reduces scatter from 94 to 88 ADDs",
+      "head": "4944211cee666eb8631b990cb0f33cfa68666485",
+      "body_sha256": "01e7749be1645d9a507c9d5695639a2bf784769242d5cd453978917e18f97478",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2407",
+      "updated_at": "2026-10-15T07:49:29Z"
+    },
+    {
+      "number": 2409,
+      "title": "Tooling: 2.49\u00d7 faster production HPE audit via integer rows with identical receipts",
+      "head": "dbaf88ec7165ae8547d2756407583c04b3ead27b",
+      "body_sha256": "0f0b0e500170ba65c2a31f397233b00bec8b16b448d9dcd16add5d95a270c9d2",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2409",
+      "updated_at": "2026-10-15T07:56:24Z"
+    },
+    {
+      "number": 2410,
+      "title": "[Lean] Check original PR1942 chart witnesses and strict envelope",
+      "head": "4c07034bcda475ba4063d3a137c0815291a7480c",
+      "body_sha256": "e86c2aed03c26f7422632a1b9df7b87180531ae556af55c3e7728ed92afccbfd",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2410",
+      "updated_at": "2026-10-15T07:56:54Z"
+    },
+    {
+      "number": 2411,
+      "title": "[Lean] Link an end-to-end proof of multiplication below n log n",
+      "head": "fb01104c3025c4385d35e9d52a411929a1aa251e",
+      "body_sha256": "211794f1169876ca8ee505e6c638b7d4e55ba53448291345c81f7e6a990bc6b6",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2411",
+      "updated_at": "2026-10-15T10:07:30Z"
+    },
+    {
+      "number": 2412,
+      "title": "Tooling: 2.29\u00d7 faster production HPE transport via integer rows with identical receipts",
+      "head": "7452a6ce9b79dee2e2b0d2a8819c4d4099d302e2",
+      "body_sha256": "4b6ca08ad75657fd6440a4ea386745dd7d1ef154a25a70dbd47a13873c435d3b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2412",
+      "updated_at": "2026-10-15T08:03:06Z"
+    },
+    {
+      "number": 2413,
+      "title": "Independent verification: PR2298 sections 6 and 4 format/error/recovery chain (explicit cutoffs, signed packing and carry lemmas; no \u03ba)",
+      "head": "9429e68a3f6b4d153dd4deb27b00dd054d9fc8cd",
+      "body_sha256": "d2a541b8ad70e5172ba5c0704561516f289b9f316674d7b39e3a90ac3032f4d9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2413",
+      "updated_at": "2026-10-15T08:04:47Z"
+    },
+    {
+      "number": 2414,
+      "title": "Measure 11.46x faster warm native compilation with complete replay",
+      "head": "160c6b06954339f97d53529557247c22ff27c47d",
+      "body_sha256": "61a5464e4e2173b84d3876f0396b9afad52a04e0d4e92fdd4f3c98af1e1c0c14",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2414",
+      "updated_at": "2026-10-15T08:16:46Z"
+    },
+    {
+      "number": 2415,
+      "title": "Research: connect coordinate-SWAP handoffs to the existing cut theorem",
+      "head": "7b9997ba2ca13be75dfc423642e2ce6b8ed18d6e",
+      "body_sha256": "6236d981984895690e5825186d39f51d749693086e0c8ae3ada7cc6da6f5e508",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2415",
+      "updated_at": "2026-10-15T08:18:01Z"
+    },
+    {
+      "number": 2416,
+      "title": "Research: QQ16 A-copy cut needs 24 native lines with even cover maps",
+      "head": "f2c93e76f84ad4ef14441d97e731cc761db0975c",
+      "body_sha256": "b46088d9d4296daac8fd67f434470fd03e8ebc41401195fa57e7da2533d958f8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2416",
+      "updated_at": "2026-10-15T08:26:53Z"
+    },
+    {
+      "number": 2418,
+      "title": "[Lean] Pay positioned paired-track acquisition and global return",
+      "head": "ddaf7234581133ec0c15496f4dfc65570aef401c",
+      "body_sha256": "82a519543e4a1dcc451839fabab8419c5b6be626d6ef277219c2c004df6d9b87",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2418",
+      "updated_at": "2026-10-15T08:41:46Z"
+    },
+    {
+      "number": 2419,
+      "title": "Independent verification: QQ16 45-set optimal read-set classification and rank(H|V)=66 of #2389/#2354 (owner bit-function certificate)",
+      "head": "bca7318a548617d63e1b66c68daa1a808e871c75",
+      "body_sha256": "695a52a45e9e677973550ae0982cc3a0fd48552dd1138a105e31938b13606f73",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2419",
+      "updated_at": "2026-10-15T08:52:27Z"
+    },
+    {
+      "number": 2420,
+      "title": "Characterize live-row and physical-slot reserve compatibility",
+      "head": "c0b8224f4331dfc4a4b115bd728b0bbee437fbed",
+      "body_sha256": "5390f61bc12a7235dfb04abac983e0a073a88aa2946686dbab837643f41a4137",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2420",
+      "updated_at": "2026-10-15T08:54:16Z"
+    },
+    {
+      "number": 2421,
+      "title": "Verify R439 interleaved COPY through native 5/9/11-stage engines",
+      "head": "71d10b283795d071c3680797f0e63856e6499fd2",
+      "body_sha256": "17000adf6ffdb04d7520e9e1f5b31cb285801d4503d511b8fe5728ff12c9a1b8",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2421",
+      "updated_at": "2026-10-15T08:55:20Z"
+    },
+    {
+      "number": 2422,
+      "title": "Compose signed record phases with the selected tensor action in Lean",
+      "head": "0df268def5a3ce9e7e077ed8166eec545c3b8c25",
+      "body_sha256": "c6a9d823fa22d3e1a94c0e6182affd087d707898b5d0644be453ad2b96195101",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2422",
+      "updated_at": "2026-10-15T08:57:24Z"
+    },
+    {
+      "number": 2423,
+      "title": "Bit construction (no \u03ba; conditional on #1043): R438 + one transport + optimal window-respecting re-hosting \u2192 c = 0.0017348463 (+0.082% vs #589); fixes two #1345 atlas crashes",
+      "head": "13cd273dc13c98244b1f9bcf588b6e828cbc0347",
+      "body_sha256": "0fc17623e09dfa1d751dfd6b6587cb31bb3a07d5de3a6bea94cd4381ad4779cf",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2423",
+      "updated_at": "2026-10-15T09:03:43Z"
+    },
+    {
+      "number": 2425,
+      "title": "[Lean] Decode compact bytes and recover the L450 source operator",
+      "head": "8ac792828e70a90beda501749608d31ef7d9250a",
+      "body_sha256": "ed0756300e43f00396ddfeec0d4bb180874da4d076b769497ed6d3aa26e5f3b0",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2425",
+      "updated_at": "2026-10-15T09:06:34Z"
+    },
+    {
+      "number": 2426,
+      "title": "[Lean] Execute encoded exponent alignment and dyadic addition",
+      "head": "f126134d77ece29b318b1e9c8a1571f3d870250d",
+      "body_sha256": "9a69e9f04b787eeb5803e5451c74c908bb8f3f3df8efaa7339ba6dfb56f59280",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2426",
+      "updated_at": "2026-10-15T09:07:29Z"
+    },
+    {
+      "number": 2427,
+      "title": "Research (no kappa claim): classical Pappus/Desargues T=3 pairing-cost census \u2014 no cost < v falsifier; tight atoms through v = 6",
+      "head": "ad449e6aa736396c779535dbdea04a402aab03ca",
+      "body_sha256": "659fd43ce7ec0552745e99b97feb00228e70fdc3d33dd0ac0ba49db9d837e49c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2427",
+      "updated_at": "2026-10-15T09:15:29Z"
+    },
+    {
+      "number": 2428,
+      "title": "Research: reframed two-writer helper-star absorption stays excluded (forced-carry closure; no new kappa)",
+      "head": "b44ede42e5e90dedf311362f4ff23ec46b9b70c1",
+      "body_sha256": "52ab4dadbd9d0ece06f222f8f4d328d2e57e37e72c0f31405a4c579740f8e9bf",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2428",
+      "updated_at": "2026-10-15T09:17:37Z"
+    },
+    {
+      "number": 2429,
+      "title": "Research note (no \u03ba): T74 #2322 words pay 525 rank units/call of end-of-call restoration climbs \u2014 each more cold-restored helper worth +0.6\u20131.5e-6 (LP ceiling); buffers are free in \u03ba",
+      "head": "15c4098832135aa29ba4eb685a2a598066823f7c",
+      "body_sha256": "33e2ae43d9067e0dcc432372ca31279034e5c9eb9d5e3903dd51cc594dcb8b26",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2429",
+      "updated_at": "2026-10-15T11:01:01Z"
+    },
+    {
+      "number": 2430,
+      "title": "Docs: connect masked decoder searches to retained rank-eight limits",
+      "head": "bb436aa50cf989702f56a950af50df6990628ec9",
+      "body_sha256": "16992d1f334301a9cc8b9627fbd08a39ec1655eaf27838de41c5d47e6f572590",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2430",
+      "updated_at": "2026-10-15T09:25:05Z"
+    },
+    {
+      "number": 2431,
+      "title": "Tooling: 1.69\u00d7 faster production R439 omission atlas via packed lanes with identical certificates",
+      "head": "c36bb5355b97ee82bb2ee0f28b3214fa4583cafb",
+      "body_sha256": "e6e6e5bd88fae8793d0a2464800b15133fa54abc75f01fb97fa5f8219cf0103f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2431",
+      "updated_at": "2026-10-15T09:26:45Z"
+    },
+    {
+      "number": 2432,
+      "title": "Prove QQ16\u2019s 88-port threshold for all eight local-axis families",
+      "head": "cbede349fc764aa38379aa533befe3215916cfcd",
+      "body_sha256": "9c74947a752707b6e149b7d07ff924310c20a4fe6c72623438868d3dbc2dc79a",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2432",
+      "updated_at": "2026-10-15T09:30:09Z"
+    },
+    {
+      "number": 2433,
+      "title": "Tooling: 4.75\u00d7 faster production P112 free-sink audit via signed modular determinants with identical receipts",
+      "head": "d688ec0ff64f300c3ff124a60893c5c8c5e4f1c4",
+      "body_sha256": "212b0f949fd29fecd8db4409de022907395a8a8bc188408c61ee257f4987c395",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2433",
+      "updated_at": "2026-10-15T09:38:47Z"
+    },
+    {
+      "number": 2435,
+      "title": "Conditional \u03ba = 0.001698511343697629: entrance raise of 24 copy buffers on the handoff T74 words",
+      "head": "324d7d3590dc21003940a44cb0cbdc32b3620f25",
+      "body_sha256": "1352f73ce92cf22947dab9d3cefe32073b8f4867d8a606e99b0a0c502740d704",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2435",
+      "updated_at": "2026-10-15T12:36:06Z"
+    },
+    {
+      "number": 2436,
+      "title": "Conditional bound: four aliases + 24 entrance raises give \u03ba = 0.001699160892139825",
+      "head": "f96e948f923d971614fc56979e31afe255c586b3",
+      "body_sha256": "79310803ea9bf047f33d4106d828cab775aa8f3b7277d0edf0fac1dce7abe03b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2436",
+      "updated_at": "2026-10-15T11:03:00Z"
+    },
+    {
+      "number": 2437,
+      "title": "Bind R439 interleaved COPY to ideal whole-call hosting",
+      "head": "4ac2b3826140b782020145a547f9b6692ebd3d32",
+      "body_sha256": "83ef3a8889f41ec4d899ff3e2f32828accaadeb696aecf3aa7b6d8b47f4c2a67",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2437",
+      "updated_at": "2026-10-15T09:49:21Z"
+    },
+    {
+      "number": 2438,
+      "title": "[Lean] Return reusable dyadic output with paid copy and sign split",
+      "head": "3e4399b276d663f8716b17c7758b597f96503675",
+      "body_sha256": "e70dd83cc92ae35afb08d93080c8b4c3073251f91e3fc636bf408f4eaef26aad",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2438",
+      "updated_at": "2026-10-15T09:49:39Z"
+    },
+    {
+      "number": 2439,
+      "title": "[Lean] Execute paid exponent widening and half-source addition",
+      "head": "4bbcd5ec320eff1deb0240fcc8a12e5919564741",
+      "body_sha256": "8e2e24726016ba9f8df9f4b1ec7d2ff5254b8fe3e5cef462fb0a76da85c86d24",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2439",
+      "updated_at": "2026-10-15T09:56:17Z"
+    },
+    {
+      "number": 2440,
+      "title": "Construction: R439 one-slot multi-column interleaving reduces deferred scatter 88 -> 84 ADDs (no new kappa)",
+      "head": "1b38482a3a749f5815b074326b7ebda177a76f63",
+      "body_sha256": "12a49808865f86511241948f7b80bb3b4c140d1768d571d33f3b0ae20d57e2bc",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2440",
+      "updated_at": "2026-10-15T10:03:34Z"
+    },
+    {
+      "number": 2441,
+      "title": "Reuse exact child intervals for 70.7x faster warm lever planning",
+      "head": "33c396f9fc465ff160493d039d54ff0e28a9ba34",
+      "body_sha256": "92edb376cc3d61c2d0231134acd074369ea70b6324f830481c80ed9cd0f99b3e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2441",
+      "updated_at": "2026-10-15T10:06:13Z"
+    },
+    {
+      "number": 2442,
+      "title": "Audit (no \u03ba): exact owner-fill optima on the T74 handoff line \u2014 #2374's fill is optimal over all fills; #2435's fill leaves +5.8e-10 (pattern optimum certified)",
+      "head": "435e5c412fcad664cef2b52cf6adf1c9f23ffc87",
+      "body_sha256": "1f7c682e884fc8337cfaa68846f8dca0fb854434790b9b211a823cb4f4c4f223",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2442",
+      "updated_at": "2026-10-15T10:07:09Z"
+    },
+    {
+      "number": 2443,
+      "title": "Recover arbitrary QQ16 first-pair inputs at retained cuts with 88 port reads",
+      "head": "545c05e17243c962b112b91e7f84b4c1a41de7b8",
+      "body_sha256": "9a9130afe06e1e41993783bc6065cd7466892a5ca08dba0d285ec20a32c35ac4",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2443",
+      "updated_at": "2026-10-15T11:50:57Z"
+    },
+    {
+      "number": 2444,
+      "title": "Exact-search tooling for noncommuting words, and a complete six-distinct-value screen of the KB2 thirteen-call candidate",
+      "head": "ba13eec9546a5ac4fca1df37209e3c42249b61c2",
+      "body_sha256": "2d323aa24f5d1ec0b0f5d23d33d91abe1986d943159a1e652cfeaa409ce2d301",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2444",
+      "updated_at": "2026-10-15T10:21:37Z"
+    },
+    {
+      "number": 2445,
+      "title": "Research: P104 two-target correction needs exactly 78 helper lifetimes",
+      "head": "6def43ad673b91dbd491389964d1dcd059bf2ac2",
+      "body_sha256": "c7b368a922a104044f24ad504b1053bb76b0657c77495eb5788185271c81df65",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2445",
+      "updated_at": "2026-10-15T11:16:01Z"
+    },
+    {
+      "number": 2446,
+      "title": "Independent verification (no \u03ba): #2435's words, 289,044-role owner map and endpoint reproduce; its change is frame-only (24 raised entrances), entrance delivery unchecked",
+      "head": "a3aabff9471dfdc3e85b065616e45a317f38882e",
+      "body_sha256": "db1542a88d0afca578d9880215eae8d225651cedab77ca57709b4ddebcbb678f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2446",
+      "updated_at": "2026-10-15T10:32:51Z"
+    },
+    {
+      "number": 2447,
+      "title": "Conditional \u03ba = 0.001698511924002761: optimal owner fill on #2435's entrance-raised words",
+      "head": "805bbaddf664459c1eb92aa461645cd69764c86e",
+      "body_sha256": "b73661e6d979202d04805971394035aca111039017f8b3b7b504596fb7e13117",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2447",
+      "updated_at": "2026-10-15T11:46:41Z"
+    },
+    {
+      "number": 2448,
+      "title": "Verify R439 interleaved window through carry-aware packet routes",
+      "head": "76311b90337a04dd811877d101c86ff8ecd65904",
+      "body_sha256": "eece573a6ddb93bd8f128751bba4adc78507e1e1764c8038b879b1561bcec32f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2448",
+      "updated_at": "2026-10-15T12:29:04Z"
+    },
+    {
+      "number": 2449,
+      "title": "Research: binary execution of the selected head-offset callback",
+      "head": "ef4640fbf9c360ef66dbc5d29916e741d515bf39",
+      "body_sha256": "e821050d0f3a737c3b8ba629f75305a0cd51ab3ed9019e1e6a17bcfe007bbaaa",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2449",
+      "updated_at": "2026-10-15T11:56:47Z"
+    },
+    {
+      "number": 2450,
+      "title": "Research note: E6 Gram point locally rigid among rank-6 realisations; D5 non-Gram 16-parameter family, and every rank-\u22645 D5 realisation keeps floor 20 (#2277 OQ4, no \u03ba claim)",
+      "head": "d7fa28209914f97f4f738b2eb26b19d0f3656024",
+      "body_sha256": "f11adfa289eb7d5cf293967a48ebf3186745f122457d81b38a3e9d5eb77e09e9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2450",
+      "updated_at": "2026-10-15T10:57:57Z"
+    },
+    {
+      "number": 2451,
+      "title": "Research note (no \u03ba): cold-restoring FULL-cleanup helpers on #2322's words \u2014 the 8 single-gate moves are legal but save nothing (reader frames join to FULL)",
+      "head": "dafaf7731cc5113f77fe74256d1a628c74da12ef",
+      "body_sha256": "45c6956cbcf273a28507ea9e12dcad867d939151adb5cff97e36d15b2e9a7509",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2451",
+      "updated_at": "2026-10-15T11:00:52Z"
+    },
+    {
+      "number": 2452,
+      "title": "Test native Windows replay descendant cleanup",
+      "head": "5208ab2780550273b1d8933ff584ce7581fb242d",
+      "body_sha256": "838efc166bd17a4af5558e13fc74d523b246d8f3e5671bc8c282b558d11f7cd0",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2452",
+      "updated_at": "2026-10-15T11:11:26Z"
+    },
+    {
+      "number": 2453,
+      "title": "Research note (no \u03ba): #2435's entrance raise is a width exchange paid by 72 partner splits; further raises saturate at \u2248 +3e-7 (split-free raises worth up to +4.3e-6)",
+      "head": "9e26d91b71d1805042285141b246a4407d75abb3",
+      "body_sha256": "5b22c297bd69fbf2798d41dded4091d0bdcf9869e6d3f76ba00f559bcd12c2a5",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2453",
+      "updated_at": "2026-10-15T11:12:14Z"
+    },
+    {
+      "number": 2454,
+      "title": "Certify native frame operations for the P104 two-target correction",
+      "head": "32c01e0f064150f39ec36bf8edc75527456171fb",
+      "body_sha256": "40aa314ef86fe797e78c06ea207559db050d28f859fdadf6bd129704630487f3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2454",
+      "updated_at": "2026-10-15T12:22:05Z"
+    },
+    {
+      "number": 2455,
+      "title": "Prove eight source XORs are necessary at the six-query endpoint",
+      "head": "cc4a77815628e57ee3681c9f3919b5e4e7b82f69",
+      "body_sha256": "7500f50bfb36625b60d0356162b67498ff4483aa4ca97c213c7251ef87ed4c75",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2455",
+      "updated_at": "2026-10-15T11:14:32Z"
+    },
+    {
+      "number": 2456,
+      "title": "Independently audit QQ16 cut recovery with payload-sensitive operators",
+      "head": "665ba8d7bffab92a434413096e9d5c0df7db40bd",
+      "body_sha256": "5665a1c83b3a0dafbf9703a2e9a8bf878f08057bc716cc5f1e4a6f48fe7ca666",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2456",
+      "updated_at": "2026-10-15T11:15:58Z"
+    },
+    {
+      "number": 2457,
+      "title": "Complete binary spectator padding with a depth-independent volume bound",
+      "head": "0362534712dca8639917a733be62840d5ce55978",
+      "body_sha256": "c5b43ae557c8b2789498102bf793381a95ab6b3db50b090842300e73503c6638",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2457",
+      "updated_at": "2026-10-15T11:16:52Z"
+    },
+    {
+      "number": 2458,
+      "title": "Research: native binding for the P104 two-target correction",
+      "head": "3170afd2fc13a990bfe28f5ab6421bcda4ffd0f6",
+      "body_sha256": "d08f7fa5831f4d77ada6c692634121a0b27840fef8c0f7f613ecf51ea9f3e35d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2458",
+      "updated_at": "2026-10-15T11:17:48Z"
+    },
+    {
+      "number": 2459,
+      "title": "Certify selected COPY separation in every odd address characteristic",
+      "head": "e0f10cd6d50c4285eb96e4144e1b6009e43115bf",
+      "body_sha256": "928804997581d54ae025a090cc622605a69921d1caf52f1cb62da737003406b2",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2459",
+      "updated_at": "2026-10-15T11:18:25Z"
+    },
+    {
+      "number": 2460,
+      "title": "Prove and attain the scoped 94-helper P104 three-target bound",
+      "head": "a0030819c6d0e89e133cd3e52cc748035d58e3c7",
+      "body_sha256": "664e950fc680833c9b1437d336bfc4315ae7696323ac6fb82df81dd025ddb734",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2460",
+      "updated_at": "2026-10-15T12:45:35Z"
+    },
+    {
+      "number": 2461,
+      "title": "Prove a sharp 104-coordinate owner-local centre repair floor",
+      "head": "4c674beb8c752c4c2352e4591638807d23215c49",
+      "body_sha256": "d14dcf143c514827ddf945d7f1dbb5b13c2b81dadf06ce6a08a921a4c93db3a3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2461",
+      "updated_at": "2026-10-15T11:22:31Z"
+    },
+    {
+      "number": 2462,
+      "title": "Conditional \u03ba = 0.001703552312979594: optimal owner fill for #2436's aliases on the entrance-raised T74 words",
+      "head": "ef34071fee6dfb0286e9850a5cec4e36d9eb126d",
+      "body_sha256": "330f1cbbaca71d8f1bbba28f5607b06d96fe04f0ac6b26ca06af72e5cb7d180c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2462",
+      "updated_at": "2026-10-15T11:34:55Z"
+    },
+    {
+      "number": 2464,
+      "title": "KB1 supplier instantiation of the certified z4 typed echo: priced whole construction, exact moments and a < D/E, one hosting obstruction (no new kappa)",
+      "head": "f364b97ff4700147fc06e622b79952b9fe6c4fa8",
+      "body_sha256": "f31e12c5b76e7b95fa7089b8efd32767133f1d7a49544e4ac9b60328856b50a3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2464",
+      "updated_at": "2026-10-15T12:42:22Z"
+    },
+    {
+      "number": 2465,
+      "title": "Research note (no \u03ba; bit headroom): helper-deletion ladder under optimal window-respecting re-hosting \u2014 \u2248 +0.082% c per deletion (d=0..6, certified)",
+      "head": "9494fc4e2ecd5070ca21b8b5422a77f046da3ac9",
+      "body_sha256": "16a611f46b2be469d9124fae24f3e710f7da784186cbe36517acbdfce95b255b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2465",
+      "updated_at": "2026-10-15T11:36:21Z"
+    },
+    {
+      "number": 2466,
+      "title": "Independent verification (no \u03ba): #2447's owner fill is exactly the certified optimum for #2435's words; the same optimum in 4 role moves (fewer charts)",
+      "head": "0804003fadf7779176d95f0da2c08a118b8884f0",
+      "body_sha256": "9636a80346f236858a0583a7bf3f8669867e5b5c650616d5090764f7cea8f60a",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2466",
+      "updated_at": "2026-10-15T11:46:31Z"
+    },
+    {
+      "number": 2467,
+      "title": "Retain the P104 relay floor under all original helper reads",
+      "head": "fbb750850aa55a8a75599270a07c6803647a61c9",
+      "body_sha256": "2aa9bb8c7d29339d0d9a84b30f11e451d2ca36ed66168a9da0685114dbfb3715",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2467",
+      "updated_at": "2026-10-15T11:48:07Z"
+    },
+    {
+      "number": 2468,
+      "title": "Implement a native local read of the QQ16 future query",
+      "head": "baa90ee8176931e697d91a9024114ee2e9a189ea",
+      "body_sha256": "6d9b00035ca4a1942460ecaa389068452742f9ce1bfcd71e0fd269c6ffd85fd5",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2468",
+      "updated_at": "2026-10-15T11:49:18Z"
+    },
+    {
+      "number": 2469,
+      "title": "Fix Windows replay lifetime with gated Job Object ownership",
+      "head": "65080e406c9edb0e93daa631f90b3fa4e4461910",
+      "body_sha256": "78d8b8c5d2780a3ab550ba0941a315bd4aa7763aa4491f81d5dc7bcb3e821e67",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2469",
+      "updated_at": "2026-10-15T11:50:11Z"
+    },
+    {
+      "number": 2470,
+      "title": "Negative result: PR2443's QQ16 two-cut records are not held in place (120 copies at d1, 224 at d18)",
+      "head": "1b2eee3bf1ec67e68c0b0fa7f47c7b2a66febe56",
+      "body_sha256": "3b2c2b1718f5e016faf94acedf002268014c462f80ab464f6c422010d73cb209",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2470",
+      "updated_at": "2026-10-15T12:42:50Z"
+    },
+    {
+      "number": 2471,
+      "title": "Bracket the fixed paired-plane scalar fitting rank between 48 and 50",
+      "head": "5a7c2b681b79d5b5e25fac62aa4bad908525b5ca",
+      "body_sha256": "e0f98166964b50371658c4a256d15b7928b089cd4f1cf3a59dacc2c88109edda",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2471",
+      "updated_at": "2026-10-15T11:52:36Z"
+    },
+    {
+      "number": 2472,
+      "title": "Independent audit of T74 raised-entrance wrapper bindings",
+      "head": "0709b0fb1ead100a7074378dce5a601922ff8dba",
+      "body_sha256": "2c69b32a943627f331a1a100f9112f3556c3b5fad0251c893a7c9426df1c6680",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2472",
+      "updated_at": "2026-10-15T11:58:18Z"
+    },
+    {
+      "number": 2473,
+      "title": "Audit exact local billing for the encoded selected ADD",
+      "head": "677baf4c92e876530c9637db191e5fd92f62624f",
+      "body_sha256": "00d4d482d3879d00f4425c93293fc1d55556e496055d91a04ca7b0fc89780fb6",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2473",
+      "updated_at": "2026-10-15T11:55:06Z"
+    },
+    {
+      "number": 2474,
+      "title": "Conditional \u03ba = 0.001703676387993676: a fifth #2436 alias on the entrance-raised T74 words",
+      "head": "71b5b0e383b2f4b57dd2177b424612da9c988fe4",
+      "body_sha256": "3b3d5ff53dc749b57050e596bc12b8bd4aa7ff02985b1f8a1311cfb3846cd7cb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2474",
+      "updated_at": "2026-10-15T12:40:01Z"
+    },
+    {
+      "number": 2475,
+      "title": "Compile one BIT call by staging complete owner packets",
+      "head": "4d536232f392d7df44e716f6d6099f459e4d9035",
+      "body_sha256": "6c4bf0ca7bcadb21b185f86ee8baa1a3fc4521b23a35f8d150652fbdb49ee2fa",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2475",
+      "updated_at": "2026-10-15T12:01:06Z"
+    },
+    {
+      "number": 2476,
+      "title": "Prove uniform exceptional-record repair across complex recursion",
+      "head": "32e88ddfd111b93fbcfb306514397cf406e4d5d4",
+      "body_sha256": "f99c8c5b5b4aa8a160676c46093d647455ae91971ec0030265c5a687f7d5863e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2476",
+      "updated_at": "2026-10-15T12:03:06Z"
+    },
+    {
+      "number": 2477,
+      "title": "Close the authenticated Windows selected-stage log comparison",
+      "head": "0760e745c5d3b6e66dbfab1799be75abf01576ed",
+      "body_sha256": "8f266db3077bbcf17967f847afdecbb55161e3d70e84ac7d46bbd6842f299170",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2477",
+      "updated_at": "2026-10-15T12:03:47Z"
+    },
+    {
+      "number": 2478,
+      "title": "Verifier: audit_local.py accepts non-centre cut gates; additive guard and regression fixture (no new \u03ba)",
+      "head": "dc83994c2dda28064c902ee970ce47db602224ae",
+      "body_sha256": "c6052346ff1ba48e796cff49274e97e6dce590678b7a8af5d743735c395a8d1c",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2478",
+      "updated_at": "2026-10-15T12:44:37Z"
+    },
+    {
+      "number": 2479,
+      "title": "Certify the finite P104 private macro inverse-transpose",
+      "head": "65e58f85d98b4a6344c6221623df1d4caa519604",
+      "body_sha256": "a38c5c5ec841a18452f58c3839cc8c4293e5e0508eb0f9d82b81d81efa7882c0",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2479",
+      "updated_at": "2026-10-15T12:34:45Z"
+    },
+    {
+      "number": 2480,
+      "title": "Prove sharp 24-array retention for the QQ16 L2 cut",
+      "head": "4c0c18ac3a3b080c263478067ee39e8fec6b1f68",
+      "body_sha256": "266c53de25283f5f26a4db0c08fa505b071cac6bfc1608f6a8017ea4e7dc9c7e",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2480",
+      "updated_at": "2026-10-15T12:27:05Z"
+    },
+    {
+      "number": 2481,
+      "title": "Restore two borrowed dirty buffers across the R439 packet window",
+      "head": "d3ec95362a071e2726c5ff4ce587de80c7d4f984",
+      "body_sha256": "7f475a83e77957990199fd82670c804ab32c7dfe7baf57ca686b988748c42804",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2481",
+      "updated_at": "2026-10-15T12:27:20Z"
+    },
+    {
+      "number": 2482,
+      "title": "Research: verified pure44/q518/506 composition and latest-source comparison",
+      "head": "bbf238f3a4b9a640381015967fe1c07836ed1fd2",
+      "body_sha256": "77ad8d4516c1f9cd035190e67cb7281151298e4c5c43f0600689ee97e9412938",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2482",
+      "updated_at": "2026-10-15T12:28:03Z"
+    },
+    {
+      "number": 2483,
+      "title": "Execute one selected complex child through its caller return",
+      "head": "bf33528d17e1cb2c0398d7ee0eba7948acfed2dc",
+      "body_sha256": "c0cb557c04324f51cb6015d0891e92bf0f47ce0bb530e0d17741537d84abbf5b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2483",
+      "updated_at": "2026-10-15T12:28:11Z"
+    },
+    {
+      "number": 2484,
+      "title": "Research note: exact scalar fitting rank 49 for PR2471's paired-plane mask (closes [48,50] bracket; no \u03ba)",
+      "head": "4823273c8163e4c72472bdf7d42202e2c12d2e46",
+      "body_sha256": "8f494bf552deb3095f6eb8002dc29cdd3cc5abfbc73e087003a4a2d3dd96ccfb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2484",
+      "updated_at": "2026-10-15T12:30:52Z"
+    },
+    {
+      "number": 2485,
+      "title": "Research consolidation (no \u03ba): T74 claim ledger \u2014 95 stated numbers and 82 release gates re-checked; 11 text errors (#2302/#2374/#2435 wrong targets, self-\u03ba in 3 READMEs), all gates pass",
+      "head": "750c05c22b2fcc58baa1ca73bf1cbfe176c2627d",
+      "body_sha256": "1b5822d6dcf841cf5ae6a6d19842b8398d4f0e79f396a3826ffaadf5745c44b4",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2485",
+      "updated_at": "2026-10-15T12:32:35Z"
+    },
+    {
+      "number": 2486,
+      "title": "Bind Gaussian certification to immutable prepared state",
+      "head": "4e20115fea8831128578ff9ba9b146798b4f98a3",
+      "body_sha256": "6e9b787fe466d1f8d34835eb1e974e588d506bfa2153b690492eb5a2566daed4",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2486",
+      "updated_at": "2026-10-15T12:32:42Z"
+    },
+    {
+      "number": 2487,
+      "title": "Research: seed-7 H2-sem matching dominates #1805 F/ADD invoice",
+      "head": "2f79aebb959aa9e528c5c7d5f1314b685190e11f",
+      "body_sha256": "111710c459750a454787a7843f333c734a782d285261bc60a31c39651fdf18c9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2487",
+      "updated_at": "2026-10-15T12:33:05Z"
+    },
+    {
+      "number": 2489,
+      "title": "Guard physical inputs to the reusable complex packing ceiling",
+      "head": "b8c02d17403be6f8babdc4d683d9cd1c52424f1f",
+      "body_sha256": "abfc244147da82464ca4522de796d145caa10240dc4c3b502a765084bf8b7654",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2489",
+      "updated_at": "2026-10-15T12:40:00Z"
+    },
+    {
+      "number": 2490,
+      "title": "Prove finite reachable alphabets at the FinTM2 interface",
+      "head": "9f397bb6ef45fc33bb152915aeae638db1a83d35",
+      "body_sha256": "618bad58e1cab51a6747a93944d2b44c081af98c4fa3ed1b08f97b1bf35b91f2",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2490",
+      "updated_at": "2026-10-15T12:39:51Z"
+    },
+    {
+      "number": 2491,
+      "title": "Exclude unitary paired cycles for the full selected dirty reader",
+      "head": "c25a4ce22a887daf8cba8b3cfad72796752ab2ee",
+      "body_sha256": "51c336d408aac13ccbf9cda27bcddfefc456aa6eda68dc2afb1d06832b7e6a9b",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2491",
+      "updated_at": "2026-10-15T12:40:08Z"
+    },
+    {
+      "number": 2492,
+      "title": "Realize the QQ16 L2 record with paid native frames",
+      "head": "9cc0d4d60819ddd246c9db9549f8ae4a61b68e45",
+      "body_sha256": "46c3156ecf13544020a08486e5076fe822781123abde8dae419887aae7083a2f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2492",
+      "updated_at": "2026-10-15T12:53:02Z"
+    },
+    {
+      "number": 2493,
+      "title": "Batch Discussion overlap reads with complete pagination",
+      "head": "a459ee34fad0488691beba8441e0a31e103b91a5",
+      "body_sha256": "108ed3f02823770a6868312467832d8c9c785a0963aa749d5455098fbc061632",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2493",
+      "updated_at": "2026-10-15T12:44:35Z"
+    },
+    {
+      "number": 2494,
+      "title": "Research: twisted helper exits do not make feedback cheaper through four registers",
+      "head": "80fea4aed2eacdca7ab4a3e2721e3dd1f355d344",
+      "body_sha256": "004d340232bfbefb0461cb30518473b91b3ea958069ca484440755ee36557756",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2494",
+      "updated_at": "2026-10-15T12:41:28Z"
+    },
+    {
+      "number": 2495,
+      "title": "Preserve assertion checks across parallel verifier entry points",
+      "head": "e3b32c0964e2764310f8cf56b141b70c3160c283",
+      "body_sha256": "e3daeda1e1617ef9696646ae8c4bd228a9172c3e28c65a39b4b42f443ecce50d",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2495",
+      "updated_at": "2026-10-15T12:51:09Z"
+    },
+    {
+      "number": 2496,
+      "title": "Prove and attain the 39-helper P104 Y2 acquisition bound",
+      "head": "f13badee663016e3e487e5183cc3cb03cd474cf4",
+      "body_sha256": "393c787d71646550b0eacadcd0a201048bada3c8328ed6a78ce63b1363e398f7",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2496",
+      "updated_at": "2026-10-15T12:45:04Z"
+    },
+    {
+      "number": 2497,
+      "title": "Construct the complete P104 backward word with zero-restored collectors",
+      "head": "7f2cf129d42030d3eb3975b7d1b07392c6d32a1b",
+      "body_sha256": "f777f1a0933add12ccc51e7fb035435363a06b592d4083f33c2704731e263512",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2497",
+      "updated_at": "2026-10-15T12:47:53Z"
+    },
+    {
+      "number": 2498,
+      "title": "Repair Windows parallel snapshot cleanup and cancellation",
+      "head": "100b46506a55e7fceb36918a8e127a5dbc45d815",
+      "body_sha256": "cbd882ff26dc074276203b6a005bf8c1f3dd30417e980ec37f3c95b44690c0d9",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2498",
+      "updated_at": "2026-10-15T12:48:17Z"
+    },
+    {
+      "number": 2499,
+      "title": "Formalize the integer energy law behind HPE packed-radix bounds",
+      "head": "b8cb44275bdcb1430daeb3e43e61a0fb55fa2783",
+      "body_sha256": "5ca0cb3c713ddf880e5887d35c491852a6cc63aff49687e5639f23477be4b34a",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2499",
+      "updated_at": "2026-10-15T12:49:29Z"
+    },
+    {
+      "number": 2500,
+      "title": "Audit typed-echo to selected-centre recursive cost transfer",
+      "head": "4cc2bdede97c83b4a6146dd00c3b3491d2db05d1",
+      "body_sha256": "84101a9c6be7e9d4e41e106bf884ff9731bac6b7c28f635d5c04ea712cbdb66f",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2500",
+      "updated_at": "2026-10-15T12:52:32Z"
+    },
+    {
+      "number": 2501,
+      "title": "Research: complete selected BIT residual traces with leaf children",
+      "head": "52a995b9d7f3e008c252770a5f47fde67a7cb37a",
+      "body_sha256": "e13043fcb10f22881e46e63213f72a43b4746a660877090bf711cbf12fcf8e26",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/2501",
+      "updated_at": "2026-10-15T12:52:36Z"
+    }
+  ]
+}
