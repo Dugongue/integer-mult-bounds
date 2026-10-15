@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "task_id": "joint-boundary-owner-proof-apis",
+  "priority_revision": 4,
+  "base_commit": "0fdd7d82de03e43c9e5a1000dfbcd380d1b687d2",
+  "original_card": {
+    "id": "complex-new-helper-inventory",
+    "question": "Can a new local cost interface change the deficit-to-recursive-cost ratio beyond current packing?",
+    "starting_points": [
+      "research/complex-local-word-ceiling/README.md",
+      "research/heterogeneous-owner-assembly/README.md",
+      "certificates/selected-result.json",
+      "research/selected-k8-unrestricted-ends/README.md"
+    ],
+    "methods": [
+      "Propose a changed helper inventory and derive an optimistic exact moment.",
+      "Design a small completed instance and independently verify its endpoint and rank bill."
+    ],
+    "acceptance_gate": "A new physically realizable contract outside the frozen catalogue whose per-call profile, screened with ceiling.ceiling(), beats the selected word's packing ceiling; a lower cap does not establish identical circuitry or order attainable optima, and is insufficient to pass the stronger-budget target under this model.",
+    "first_step": {
+      "command": [
+        "python3",
+        "-B",
+        "research/complex-local-word-ceiling/verify.py"
+      ],
+      "expected": "PASS_COMPLEX_LOCAL_WORD_CEILING",
+      "inspect": "Read the selected word's per-call local profile, its packing ceiling and the lever table; run levers.py for the ideal budget of the lever you target.",
+      "scope": "Positive control and planning budget only; this is not a new construction or full cold replay."
+    },
+    "first_experiment": "Before any synthesis, write the candidate per-call local profile (and centre charge / unpaid coordinates if changed) and screen it with ceiling.ceiling(); reject it if even the ideal ceiling does not beat the selected word's by your stated margin.",
+    "bottleneck_link": "Packing of the selected word is capped at +0.87% (ceiling model); only a lower local excess spend or a changed coverage law raises the cap.",
+    "allowed_variations": [
+      "Narrow to one changed boundary or helper type with explicit counts.",
+      "If the coverage law, template or guard changes, derive an applicable fully charged replacement bound instead of applying the incumbent ceiling outside its scope."
+    ],
+    "scope_change_triggers": [
+      "Mixing only providers already inside the pinned catalogue.",
+      "Only changing helper terminal subspaces and monotone frames within the fixed scalar word, entrances and cleanup contract already covered by #1995/#2013."
+    ],
+    "overlap_terms": [
+      "helper inventory",
+      "heterogeneous-owner",
+      "mutable leaver"
+    ]
+  },
+  "scope_status": "changed",
+  "actual_scope": "49 literal owner relocations and35 reusable Mathlib-only sufficient lemmas, with improved conditional kappa0.001703702704356135222149.",
+  "scope_change_reason": "Explicit user requested a new frontier contribution with three agents; deterministic mathematical selection, not a random chooser claim.",
+  "bottleneck_link": "Joint boundary/chronology/physical-owner objective; changed ownership has a verified numerical gain while retiming APIs support future topology changes.",
+  "stop_rule": "Complete strict finite native/owner/invoice/outer/ordinary replay plus separate fresh kernel/axiom audit of every published theorem.",
+  "outcome": "completed",
+  "evidence": "verify_package.py; ownership/; lean/KERNEL.json; PROOF-APPLICATION.md",
+  "author": "Dugongue",
+  "ai_assistance": "Substantial OpenAI Codex assistance, root plus three collaborating agents; independent AI review, no independent human review or full Lean multiplication claim.",
+  "open_questions": [
+    {
+      "question": "Can dependency-compatible scalar forwarding and changed entrances lower the actual whole-owner cost?",
+      "why_it_matters": "Fixed-interface local bounds do not price changed inventories or prove their physical realization.",
+      "first_step": "Use the proved module retiming/forwarding identities, construct complete native words, then replay literal owner feasibility and both moment engines.",
+      "blocked_by": "No automatic physically admissible frame/owner compiler is assumed."
+    }
+  ]
+}

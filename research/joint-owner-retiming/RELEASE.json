@@ -1,0 +1,13 @@
+{
+  "package_dir": "research/joint-owner-retiming",
+  "title_suffix": "Conditional kappa 0.00170370270435613522 with joint owner reassignment and reusable Lean proofs",
+  "summary": "49 source-bound owner relocations, complete finite admission and universal power-profile/retiming APIs.",
+  "credits": "See NOTICE and provenance/PR2474-README.md",
+  "required": [
+    "verify_package.py",
+    "README.md",
+    "lean/OwnerProfileGain.lean",
+    "ownership/replay_owner_delta.py"
+  ],
+  "scope": "Conditional finite construction only. All-size compiler, common-label/mutable-source realization, whole-call hosting, precision/tape, exact recovery, analytic transfer, PR559 recurrence correction and PR589 bit H1-H5 assumptions remain. No unconditional theorem, full Lean certification, or global packing claim."
+}
